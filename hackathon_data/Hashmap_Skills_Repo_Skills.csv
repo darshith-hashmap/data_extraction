@@ -1,0 +1,2151 @@
+Active?,Consultant Name,Employment Type,Resume Link,Top Fresher,Training Group,Skills Bucket,Skill Sets,Certifications Completed,Education,Laptop,Technology Known,Languages/Technology Interested,College Exam/Projects,End Date - College Project Work,Current Shadow Project (ITT),Current Active Project,Punctuality - Start,Proactiveness - Start,Curiosity - Start,Team Player - Start,Client Orientation - Start,Interpersonal Skills - Start,Speaking Skills - Start,Assessment - Start (AVG),Punctuality - Current/Finish,Proactiveness - Current/Finish,Curiosity - Current/Finish,Team Player - Current/Finish,Client Orientation - Current/Finish,Interpersonal Skills - Current/Finish,Speaking Skills - Current/Finish,Technology - Finish,Assessment - Final (AVG),Assignment Submission,Working On,Return
+TRUE,Person 1,W2,https://docs.google.com/document/d/1AnisZJpDOKO5OJh1YQCbTBz99D9RDyGS4Ov2yjo2rKw/edit,,,ETL Engineer,"• Big Data: Spark, Cloudera Hadoop Ecosystem, HDFS, YARN, Sqoop, Hbase, NoSQL, Hive, Hue, Oozie
+• Databases: DB2, Oracle, MySQL, SQLServer,
+• Cloud: Databricks, EC2, IAM, CloudWatch, AWS SDK, S3, Athena, Redshift, Secrets manager, Spectrum
+• Devops: Jenkins, SBT, Bitbucket, GitHub
+• IDE Tools: IntelliJ Idea, Eclipse, DB Viz, MobaXterm, WinSCP, Putty
+• ETL Tools: Informatica Powercenter, Informatica BDM, Alteryx
+• DQ Tools: Informatica Data Quality Big data version
+• Scripting: SQL, PL/SQL, Scala
+• Reporting Tools: Power BI, Hyperion
+• Scheduling Tools: Redwood 8, Talend TMC",,• Bachelor of Engineering (ECE,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 2,W2,https://docs.google.com/document/d/11HxgFs3VHVuwSEcLcZsDIkcnw8PVm62vLcv3TunBoRM/edit?usp=sharing,,,Cloud Engineer,"• Big Data: HDP, Hive, HDFS, MapReduce, Spark
+• Cloud: GCP, Microsoft Azure
+• Databases: SQL Server, MySQL, Big Data ecosystem databases 
+• Data Warehouse: BigQuery
+• Languages: Scala, Python
+• Frameworks and tools: Spark, Docker, Kubernetes, DBT, Azure Databricks, Azure Data Factory, ADLS Gen2, Azure DevOps, Matillion","Databricks Certified Associate Developer for Apache Spark 2.X with Scala (CRT020) (expires: N/A)
+
+AZ-900 - Microsoft Certified Azure Fundamentals (expires: N/A)
+
+SnowPro Core (expires: 03/20/23)",• Masters in Computer Applications,,,,,,,Caterpillar Inc. FPD - SOW5 - Snowflake/Matillion Assistance,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 3,W2,,,08/2021 - Group 1,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"Numpy
+Pandas
+Python
+matplot","AI
+ML",,,,,4,4,3,N/A,N/A,4,4,3.8,5,5,5,N/A,N/A,5,5,,5.0,,,"-
+
+-"
+TRUE,Person 4,W2,,,08/2021 - Group 1,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"Numpy
+Pandas
+Python
+matplot",ML,,,,,4,4,4,N/A,N/A,4,5,4.2,4,4,4,N/A,N/A,4,5,,4.2,,,"-
+
+-"
+TRUE,Person 5,W2,,,,ETL Engineer,"Programming Skills:  SQL ,Unix , Java ,AS400(COBOL)
+Tools & Techniques: Talend ETL, AWS S3 ,Git (Deployment repository), Jira (Defect Management), Jenkin (deployment tool)
+Database: Snowflake, AS400",,"B. E. Mechanical ,
+Savitribai phule pune
+university",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 6,W2,,,04/2021,ETL Engineer,,Building a data warehouse using Matillion (expires: ),• Masters in Computer Applications,No,,".NET
+Python",,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,4,2,2,3,3,2,2,2.6,5,3,3,3,3,3,2,3,3.1,4,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 7,W2,,,,ETL Engineer,"BI Tools: ETL Tool – Informatica Power center(10.x) & Reporting –SAP BO
+Databases: Oracle, Netezza & Sybase
+Technology: ETL & DWH systems
+Languages: SQL & UNIX",,"Bachelor of Engineering in Information Technology from RNS Institute Of Technology, Bengaluru in 2013",,,,,,,"Waste Management - SOW7 - ""Elements"" SQL Server to Snowflake Migration Execution (Phase 2)",,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 8,W2,https://docs.google.com/document/d/1d4fDZcKJPNXHEQZd9iLktrhwQW2UYwRvHp39Cx-Fm18/edit,,,ETL Engineer,"• OS: Linux
+• BI Tools: Spotfire, Tableau
+• RDBMS: MySQL,SQL
+• Languages: Scala, Python Basics
+• Big Data: HDFS, Hive, Hadoop, Oozie, Spark SQL","SnowPro Core (expires: 03/29/23)
+
+Tableau Desktop Specialist (expires: N/A)
+
+Fivetran (expires: )",,,,,,,,ExxonMobil - Fuels - Foundation,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 9,W2,https://docs.google.com/document/d/15UviU5ORujoliR2wJ9Cyvw1B_wxEIuX5eJcOMQrI860/edit,,05/2021,Cloud Engineer,"• Languages: Java, SQL, XML, JSP, Servlet, JavaScript, TypeScript, CSS, HTML, C#, C/C++
+• Frameworks: Spring, SpringBoot, Hibernate, Angular, JavaFX, JUnit
+• RDBMS: SQL Server, MySQL, Postgres
+• Environment: IntelliJ IDEA, Eclipse, MySQL Workbench, Maven, Git, Visual Studio Code",,,,,,,,,,,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 10,W2,,,,ETL Engineer,"PROGRAMMING
+ • SQL • Shell Scripting
+• Extract, Transform, Load (ETL)
+• Data Warehousing • Business
+Intelligence • Data Analysis
+TOOLS & TECHNOLOGIES
+• IBM DataStage • Talend Data
+Integration • Teradata • Greenplum
+• SQL Server • Control-M
+• Putty • WINSCP • Oracle
+• TOAD • Unix",,"UNIVERSITY OF MUMBAI
+B.E. IN INFORMATION
+TECHNOLOGY",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 11,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"CSS
+HTML
+JS
+OpenCV
+Python
+SQL",Data Science,,,,,4,4,4,N/A,N/A,3,3,3.6,4,4,4,N/A,N/A,3,3,,3.6,,,"-
+
+-"
+TRUE,Person 12,SUBCONTRACTOR,https://docs.google.com/document/d/1ysUrWSbswcOFSFdY-j4RfvSLzFgj3UEyTNUrly5eW_U/edit,,,Cloud Engineer,"• Big Data: Hadoop, HDFS, Spark, Spark SQL, Databricks
+• Data Warehouse: Snowflake
+• Scripting: Python
+• RDBMS: SQL Server
+• Cloud: AWS, Azure",,,,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 13,W2,https://docs.google.com/document/d/13uSZYsBYgadtlnx726Q16MPsrc6oa1JxynOMR9F3r3I/edit,,,Data Scientist,"Machine Learning, Artificial intelligence,Data Visualization, NLP, Data Analysis, Statistical Modeling, Python, C#, Power BI, Sci-Kit Learn, Tensor Flow, SQL Server, Kusto, PostMan, Jupyter Notebook, Spyder, MS CRM customization & configuration, CRM SDK/Web, Services, Plugins, Custom Workflow. Power Apps",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 14,W2,,TRUE,07/2021,ETL Engineer,,Building a data warehouse using Matillion (expires: N.A.),• Bachelor of Engineering in Computer Science,No,"Django
+HTML
+JQuery
+JS
+Python","Django
+Python",End of 2nd Week July,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,4,5,N/A,N/A,5,5,4.8,5,5,5,4,N/A,5,5,,4.8,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 15,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.E(Computer science),,"Data Structure
+Python","C++
+Go
+Python
+R",,,,,5,5,5,N/A,N/A,5,5,5.0,5,5,5,N/A,N/A,5,5,,5.0,,,"-
+
+-"
+TRUE,Person 16,SUBCONTRACTOR,,,,Software Engineer,"Python
+Spark
+PySpark
+Hive
+PostgreSQL
+Scikit Learn
+Tensorflow
+H2O. Created
+bash/shell scripting
+docker
+kubernetes
+Google cloud
+AWS
+cli scripting.",,"PhD, Department of Engineering Science and Mechanics
+Virginia Tech
+Blacksburg, VA 2010-2014
+Bachelor’s, Department of Mechanical Engineering
+University of Tabriz
+Tabriz, Iran 2002-2006",,,,,,,WW International - SOW02 - Snowflake & Python Data Engineering - Near Shore,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 17,W2,,,08/2021 - Group 1,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Civil Engineering),,"Django
+Java
+Python
+Springboot","AWS
+Kafka
+Redix",,,,,4,3,3,N/A,N/A,3,3,3.2,4,4,4,N/A,N/A,4,4,,4.0,,,"-
+
+-"
+TRUE,Person 18,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),M. SC(Chemsitry),,"Ajax
+C
+C++
+Java
+Python
+SQL","Java
+Web Technology",,,,,3,3,3,N/A,N/A,3,3,3.0,3,3,3,N/A,N/A,3,3,,3.0,,,"-
+
+-"
+TRUE,Person 19,W2,https://docs.google.com/document/d/1PX6GOo4cSj2TOHJLxOjv1C3vbDC3YmfMJwchzqGNqco/edit?usp=sharing,,,Platform Engineer,"• OS: Linux, Windows
+• Containers: Docker
+• Scripting: Bash
+• RDBMS: MySQL, MariaDB
+• Security: Ranger, Knox, Kerberos
+• Public & Private Clouds: AWS, GCP
+• Protocols:  HTTP, SSH, TLS/SSL
+• Version Control: OS Upgrade and hardening
+• Big Data: HDFS, YARN, Map Reduce, Hive, 
+• K8S Tools:  Google Kubernetes Engine(GKE)
+• High Availability: Hive, YARN, HDFS, Ranger, MySQL & Knox","AWS Certified Cloud Practitioner (expires: 04/11/22)
+
+Google Cloud Engineer Associate (expires: 01/01/22)
+
+Google Professional Cloud Architect (expires: 03/11/22)
+
+HashiCorp Certified Terraform Associate (expires: Unknown)
+
+HDP Certified Administrator (HDPCA) Certification (expires: N/A)",,,,,,,,Privacera - SOW4 - PCR4 - Ankur Extension,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 20,W2,,,04/2021,ETL Engineer,,Building a data warehouse using Matillion (expires: ),• Bachelor of Technology in Computer Science,Yes,,"ML
+Python
+SQL","Yes, Project Work",05/15/21,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,4,4,3,3,3,4,4,3.6,5,5,4,4,4,5,5,3,4.4,5,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 21,W2,,,,ETL Engineer,"SQL, oracle, mainframe, unix scripting and python",,,,,,,,,Solar Turbines Incorporated - SOW03 - Phase 3 Non-ERP Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 22,W2,,,,Project Management,,,,,,,,,,SEI - SOW1 - Oracle to Snowflake Migration Assessment/POV,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 23,W2,,TRUE,08/2021 - Group 1,Cloud Engineer,,,B.Tech(Computer science),,"Creating Instances
+Numpy
+Pandas
+PowerBI
+Python
+S3 Bucket
+matplot","Data Analysis
+Deep Learning
+ML",,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,4,4,4,N/A,N/A,5,5,4.4,5,4,4,N/A,N/A,5,5,,4.6,,,"-
+
+-"
+TRUE,Person 24,W2,https://docs.google.com/document/d/1N_WX5EC8FVGy5cthJMjk2sS2lTO3yOLYHcCCfzFZObk/edit,,,ETL Engineer,"• RDBMS: MySQL, Oracle, MS SQL
+• NoSQL: Cassandra, ElasticSearch
+• Languages: Java, Python, Scala
+• Build automation: Maven
+• Big Data: Apache Spark, Apache Flink, DBT. Azure Data Factory
+• Cloud: AWS, Azure and GCP
+• Data Warehouse: Hive, BigQuery, Apache Druid
+• Sprint Management and Bug Tracking: JIRA
+• Containerisation : Docker, Kubernetes
+• Web Server: Tomcat
+• Streaming: Apache Flink, Apache Kafka
+• IDE: Eclipse, IntelliJ IDEA, 
+• Version control system: GIT, BitBucket","Google Cloud Engineer Professional (expires: )
+
+Databricks Certified Associate Developer for Apache Spark 2.X with Scala (CRT020) (expires: Unknown)",• Masters in Computer Applications,,,,,,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 25,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.E(Computer science),,"Chatbot
+ML","Blockchain
+Java
+Web Technology",,,,,4,4,4,N/A,N/A,3,4,3.8,4,4,4,N/A,N/A,3,4,,3.8,,,"-
+
+-"
+TRUE,Person 26,W2,,,,Cloud Engineer,,,,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 27,SUBCONTRACTOR,,,,BI Developer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 28,W2,,,,ETL Engineer,"●	ETL Tools:  Talend (TAC + Talend Big Data Integration)
+●	Database Platforms: Teradata, Hive & MySQL
+●	Software & Tools: JIRA Agile, Confluence, Bamboo, Bitbucket & GitHub
+●	Operating Systems: Windows Server
+●	Reporting Tool: Scheduling and automating daily run of jobs using Control-M.
+●	Data Quality:  Generated Data Quality Enrichment Report on Business Rules using Python (hands-on).
+●	Amazon Web Services:  Neptune (Knowledge Graph), Redshift, Kinesis, EMR, Athena, DynamoDB.
+●	Languages: Python, C
+●	Microsoft Office:  MS PowerPoint, MS Word, MS Excel.",,"Bachelor of Technology, Computer Science and Engineering",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 29,W2,https://docs.google.com/document/d/1QID9rVfHOuTCIWRUzw10NT4sLx-5d2SHIhqrp9yd5Oc/edit,,,Cloud Engineer,"• Big Data: PySpark
+• Cloud: AWS(introductory), snowflake(introductory)
+• Databases: OrientDB, MongoDb, MySQL, Postgres
+• Languages: Python Programming, Shell Scripting, PySpark(introductory)
+• Framework: Django, Flask, AngularJs
+• Operating Systems: Linux (CentOS, Ubuntu), Windows
+• Methodology: Agile, SDLC	 	
+• ML and Data Science: Hypothesis Testing, Statistics & Exploratory Data Analysis, ML Modeling Techniques
+• Other: Gitlab, Apache pySpark, Docker","AWS Certified Cloud Practitioner (expires: 11/02/23)
+
+Databricks Certified Associate Developer for Apache Spark 2.X with Python (CRT020) (expires: N/A)",• B. Tech - Electronics and com. Engineering,,,,,,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 30,SUBCONTRACTOR,https://docs.google.com/document/d/1zdKbGpzsSptJoIzSW-BYq3vSz2GBKGogkcb7DP5iR5g/edit,,,Cloud Engineer,"• Big Data platforms: Cloudera, Hortonworks, Pivotal and MapR
+• Big Data: PySpark, Hadoop, HBase, Hive, Sqoop, Spark Sql, Redis
+• Cloud:
+   Azure: ADF, Databricks, ADLS, VM, Blob Storage, Event Hub, Logic Apps, Kubernetes, Key Vault. 
+   GCP: Compute Engines, GCS, Bigquery, Airflow / Composer, Spanner, Compute Functions, DataProc, Dataflow.
+   AWS: EC2, S3, lambda
+• Scripting Languages: Python, Unix 
+• Data Warehouse/ETL: Informatica, Talend
+• Database: Oracle, Netezza, Greenplum, postgres
+• NoSql Databases: Cassandra, MongoDB
+• Reporting:  Oracle Forms, ApEx, Tableau, Business Objects
+• Oracle Performance tuning: ASH, AWR, ADDM, Trace files, StatsPack, Explain Plan, DBMS_Profiler. 
+• Version control:  PVCS Version Manager, Visual source safe, Perforce, Clear Case
+• Email Suite:  StrongView",Fivetran (expires: ),,,,,,,,Precision Drilling - SOW2 - PCR4 - extending 1 resource for 3 months,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 31,W2,,,08/2021 - Group 1,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),MCA,,"MongoDB
+React Framework
+SQL
+UI","Hadoop
+Scala",,,,,3,3,3,N/A,N/A,4,4,3.4,4,4,4,N/A,N/A,5,5,,4.4,,,"-
+
+-"
+TRUE,Person 32,W2,,,08/2021 - Group 1,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"AWS
+GCP
+JS
+Java
+MongoDB
+MySQL
+NodeJS","AWS
+Python",,,,,5,4,4,N/A,N/A,4,4,4.2,5,5,5,N/A,N/A,5,5,,5.0,,,"-
+
+-"
+TRUE,Person 33,SUBCONTRACTOR,,,,Project Management,,,,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 34,W2,,,07/2021,ETL Engineer,,,• BCA,No,"C++
+Java",Python,20th July- 30th July 2021,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,3,5,N/A,N/A,5,4,4.4,5,4,5,N/A,N/A,5,4,,4.6,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 35,W2,https://docs.google.com/document/d/1N4fzqg8xm1IPDQrVQkSzJTy7Lde8gLkODsmQnktD3fQ/edit,,,ETL Engineer,"• Database: SQL
+• ELT: DBT
+• Big Data: Apache Hive, Apache Spark, Oozie, Sqoop, HDFS
+• Language: Python
+• Scripting: Shell Scripting
+• RDBMS: MySQL,Oracle
+• Cloud: GCP
+• Data Visualization: Tibco Spotfire, Tableau
+• Version Control: GitHub, GitLab","Databricks Certified Associate Developer for Apache Spark 2.X with Scala (CRT020) (expires: N/A)
+
+AZ-900 - Microsoft Certified Azure Fundamentals (expires: N/A)
+
+SnowPro Core (expires: 01/27/23)",• Bachelor of Engineering in Electronics & Telecommunications,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 36,W2,https://docs.google.com/document/d/1UN8XfdcKsBcnM5Ue0RdK2m5ESK3cMGpxZ8Xw5kIgUYw/edit,,,Cloud Engineer,"• Operating Systems:  Windows 95/98/00/XP/10, Linux
+• Databases:  Oracle 8i/9i/10g/11g/12c, MS SQL Server, MySQL, Teradata12, Netezza and  Snowflake Cloud data warehouse
+• Programming Languages:  Oracle SQL, PL SQL, Python
+• ETL/BI Tools:  Informatica, Datastage, Tableau, Cognos, TIBCO Jaspersoft, DBT(DataBuildTool for Transformations) and Matillion.
+• Database Tools and Utilities:	SQL Loader, Toad 13.1, SQL developer, PL/SQL developer
+• Version Control:  VSTS, TFS, SVN, GIT
+• Issue Tracking Tools:	TFS, JIRA, Remedy tool, Confluence
+• Enterprise Scheduling Tools:	CONTROL-M
+• Modeling Tools:  Erwin, MS Visio.","Professional Scrum Master (expires: )
+
+Informatica 910 Developer (expires: )
+
+Oracle Certified Professional (expires: )
+
+Confluent Fundamentals For Apache Kafka (expires: N/A)
+
+SnowPro Core (expires: 09/13/22)","• Masters in Computer Applications
+• B.S. Electronics",,,,,,,"Waste Management - SOW7 - ""Elements"" SQL Server to Snowflake Migration Execution (Phase 2)",,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 37,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 38,W2,https://docs.google.com/document/d/1zy2H9pV79hykXW2ltZn_x31YKAZ8Aho0YvK769tUFQE/edit,,,ETL Engineer,"• ETL Tools:  IBM infosphere DataStage 8x/11.3, Informatica Power center 9.5/8.6 & Ascential DataStage 7.5.X2 parallel extender, Matillion,SAP BODI, Info works, GCP, Airflow.
+• Data Modeling:  Star Schema, FACT and Dimensions tables, Data Modeling, Erwin 7.0
+• Database:  Oracle 11g/10g/9i,Db2,Teradata,MS SQL Server,2005,2008,NoSQL
+• Big Data Ecosystem: Hadoop, MapReduce, HDFS, HBase, Zookeeper, Hive, Pig, Sqoop.
+• Languages:  Java, Python, SQL/PLSQL, Shell and Perl scripts
+• Operating Systems:  Windows XP/Vista, Windows 2000/2003 Server, UNIX
+• Reporting Tools:  SAP Business Objects XIR3 (WEBI, DESKI, UNIVERSE DESIGN),  Google Analytics,OBIEE
+• Others:  Agile, Unix, Toad, SQL Developer, TSG Service Now, Jira, Confluence, Autosys, Control M","Google Cloud Engineer Associate (expires: 07/07/21)
+
+SnowPro Core (expires: 08/20/22)
+
+Fivetran (expires: )",• B. Technology,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 39,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"Java
+Python",Cloud Technologies,,,,,4,3,3,N/A,N/A,4,4,3.6,4,3,3,N/A,N/A,4,4,,3.6,,,"-
+
+-"
+TRUE,Person 40,W2,,,,ETL Engineer,"•	Informatica Designer, Workflows and Monitoring 
+•	Informatica IDQ
+•	Jira
+•	PLSQL
+•	Unix & shell scripting
+•	Spyder(Anaconda)
+•	Aginity
+•	Unix Shell Scripting
+•	SQL Developer for Oracle
+•	PLSQL Developer 
+•	WinScp
+•	AWS
+•	Putty
+•	Appworx Application Manager
+•	SQL Server
+•	Control-M
+•	Stream set
+•	Kafka
+•	SFDC
+•	Netezza
+•	Oracle 9i/10g/11g
+•	SAP Hana
+•	GreenPlum
+•	PostgreSql
+•	MS Access
+•	Teradata
+•	SOQL(SFDC)",,,,,,,,,"Waste Management - SOW7 - ""Elements"" SQL Server to Snowflake Migration Execution (Phase 2)",,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 41,SUBCONTRACTOR,,,,Data Analyst,,,,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 42,W2,,,,Data Scientist,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 43,W2,https://docs.google.com/document/d/1ZoMPN0lAIiBbujuf6JBnncyU6VSqHvAP/edit,,,Platform Engineer,"• OS: Linux
+• Container: Docker
+• Orchestrator: Kubernetes
+• Scripting: Bash, Python3
+• RDBMS: MySQL
+• Security: Kerberos, SSL certificates, LDAP/AD, Ranger and Knox
+• Public & Private Clouds: AWS, OpenStack
+• Protocols:  HTTP, HTTPS, SSH, SSL 
+• Version Control: Git
+• Big Data: CDH, HDP",AWS Certified Cloud Practitioner (expires: 08/31/22),,,,,,,,,,,,,,,,,,,,,,,,,,,AWS Certified Solutions Architect Associate (plans to complete by 09/30/21),"-
+
+-"
+TRUE,Person 44,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 45,W2,,,09/2021,ETL Engineer,"Databases: Oracle 11g
+BI tools: Tableau
+Scripting Language: SQL, Python 
+Machine Learning: Supervised Learning, Neural Networks, Natural Language Processing
+Cloud Technologies: AWS Foundation",,"Master of Computer Applications 	DDCE Punjab Technical University(PTU)
+Bachelor of Computer Applications	DDCE, Sambalpur University",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 46,W2,https://docs.google.com/document/d/1kAgIMqtf7JDepPK-ZZRyP5NfwclKwXsCTL6p7E88FOk/edit?usp=sharing,,,Platform Engineer,"• Big Data: HBase, HDFS, Zookeeper, Kafka, Hive, Pig, Sqoop, Oozie, HUE, Spark, Tez, Phoenix, Knox, Zeppeli, MapR, MapR Streams, OpenTSDB
+• Cloud: AWS, Azure, GCP, Elasticsearch, Kibana, Logstash, Cloudbreak
+• Databases: HBase, Hive, Oracle, MySQL, MongoDB, Microsoft SQL Server 200
+• Languages:  Shell Scripting, Python, HTML, XML, SQL, PHP, Java
+• Software: Eclipse, Microsoft Exchange, Oracle Virtualbox, VMware, Microsoft Office, Adobe Photoshop, ItelliJ
+• Systems/Services:  UNIX, Virtual Box, Win Server 2008/2012R2, Ansible, Streamsets, Gitlab, Github, 
+• Security: OpenLDAP, Microsoft AD, Kerberos, Ranger, Knox
+• DevOps: Azure DevOps, Kubernetes",,,,,,,,,USAA - Extension,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 47,W2,https://docs.google.com/document/d/16BukBqHyfuHqTtz6cJkNfnNmxwZPwYyoEoio_Tj01y4/edit?ts=5f6a300c,,,Cloud Engineer,"• Big Data: Hadoop, Hive, Sqoop, Ozzie
+• Cloud: GCP, Azure
+• ELT Tools: Matillion, Fivetran
+• Databases: Snowflake
+• Languages: SQL, Python","AZ-900 - Microsoft Azure Fundamentals (expires: Unknown)
+
+SnowPro Core (expires: 04/06/23)",• Business Administration,,,,,,,ExxonMobil - Fuels - Supply Chain,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 48,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 49,W2,https://docs.google.com/document/d/1w08DBOef0_CaYkCmKJdZTrYXDJWoMm6KiuEahKm0GG8/edit,,,Cloud Engineer,"• Cloud: AWS
+• Databases: Redshift, MySQL, PostgreSQL, DynamoDB
+• Languages: Python, SQL, JavaScript
+• Software:  AWS Glue, Redshift, Athena, CloudFormation, Sagemaker
+• Security: AWS IAM
+• Orchestration: Oozie, Airflow
+• Big Data: Spark, Hadoop
+• Operating Systems: Windows, Mac, Linux
+• Framework: Django, jQuery
+• Scripting: Python
+• ML & Data Science: Pandas, numpy, matplotlib, seaborn
+• RDBMS: PostgreSQL, MySQL
+• BI & Visualization: Qlik, Einstein Analytics
+• Web Technologies: Python, Django templating, HTML, CSS, JavaScript, AJAX, Bootstrap",,• B. Tech in Electronics and Communication,,,,,,,ExxonMobil - Fuels - Supply Chain PCR2,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 50,W2,https://docs.google.com/document/d/1GV1U6hQEq7keUuNfIBryox3n2JnPefSTu0jUhjD1Rq0/edit?usp=sharing,,,Platform Engineer,"• HDP
+• MapReduce
+• MySQL
+• HDFS
+• Zookeeper
+• Scala
+• Yarn
+• Java
+• HBase
+• Ubuntu","AWS Certified Cloud Practitioner (expires: 03/17/23)
+
+AWS Certified Solutions Architect Associate (expires: 03/17/23)
+
+
+
+Docker Certified Associate [DCA] (expires: 03/30/23)
+
+HDP Certified Administrator (HDPCA) Certification (expires: N/A)",• Bachelor of Engineering in Computer Science,,,,,,,,,,,,,,,,,,,,,,,,,,Certified Kubernetes Administrator (plans to complete by ),"-
+
+-"
+TRUE,Person 51,W2,,,04/2021,ETL Engineer,,,• MTech(Power electronics and Drives),Yes,,Python,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,4,3,3,3,3,3,3,3.1,4,3,3,3,3,3,3,2,3.0,3,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 52,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"Bootstrap
+CSS
+HTML
+Java
+Python
+RDBMS",ML,,,,,4,4,4,N/A,N/A,4,4,4.0,4,4,4,N/A,N/A,4,4,,4.0,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 53,W2,,,,Cloud Architect,,AZ-900: Microsoft Azure Fundamentals (expires: ),,,,,,,,Exxon Mobil - Beeline - Big Data Architect - Dilip Kari,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 54,SUBCONTRACTOR,,,,BI Developer,"BI Tools: Tableau2020, Tableau 8X, Tableau 9.2.6, and Tableau 10
+MIS:	Advanced Excel and Excel VBA
+ETL: SSIS, Power BI
+DataBases: SQL Server 2014, 2016, and 2008 R2 & Oracle 10g.
+Web Languages: HTML and CSS 
+Knowledge In:	Microsoft AZURE, MSBI
+Operating Systems: Windows",,Bachelor’s Degree in Electronics and Communication Engineering,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 55,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 56,W2,https://docs.google.com/document/d/1ho5wF_kEpeaxh434otfkvfHGCPJYi5Mf_F3dMB4ROeU/edit,,,Cloud Engineer,"• Cloud: AWS
+• Databases: Hive, Snowflake, Delta Lake
+• Languages: Scala, SQL
+• Software: WinSCP, Putty, Jira, Confluence
+• Big Data:  HDP, HDFS, Spark, Oozie, Apache Nifi
+• Operating Systems: Windows, Linux
+• Framework: Apache Spark, DBT
+• RDBMS: MySQL","AWS Certified Cloud Practitioner (expires: Unknown)
+
+Databricks Certified Associate Developer for Apache Spark 2.X with Scala (CRT020) (expires: N/A)",• Bachelors of Technology in Computer Science,,,,,,,"Arlo Technologies, Inc. - SOW16 - PCR02 - Extension for Gaurav & Neeraj",,,,,,,,,,,,,,,,,,,Microsoft Azure Fundamentals AZ-900 (plans to complete by ),"-
+
+-"
+TRUE,Person 57,W2,https://docs.google.com/document/d/1shq6fzZkdBJKlExpL8f3khj1zkz8HRqn1zIWTBK1YL8/edit?usp=sharing,,,Cloud Engineer,"• Data Integration:  IBM DataStage(v11.7) ,IBM Maestro,Matillion, Snowflake,SnowPipe, Azure Data Factory, Azure Active Directory(AD), Azure Storages,Azure Cosmos DB, Dockers on Azure.
+• Orchestration:  Azure Devops CI/CD pipeline,Jenkins CI/CD.
+• Languages:  Java and Python
+• JAVA Platforms:  Spring Framework 5.0 ,Spring Boot, Hibernate 5.0, Dependency injection, events, resources, validation, data binding, type conversion, AOP, Spring MVC Test, Transactions, DAO support, JDBC, ORM, Marshalling XML, Spring MVC web frameworks, JMS,JMX,tasks, Scheduling,Cache.
+• Python Platforms:  Snowflake-Python connector, Python Email
+• Databases:  Oracle 10g and above, MySQL, MS SQL Server 2008 and above, DB2 10.2.
+• Tools/Utilities:  IBM DataStage Designer Client,Director Client,Administrator Client,PyCharm,Visual Studio, Eclipse, NetBeans, Postman, MS Azure Storage Explorer","Six Sigma Green Belt (expires: )
+
+Azure Developer Associate (expires: )
+
+AZ-204 Azure Architect (expires: Unknown)
+
+Fivetran (expires: )",• B. Tech,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 58,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 59,W2,,,04/2021,ETL Engineer,,,• BTech(Mechanical),Yes,,"AI
+ML
+Python",,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,4,3,3,3,3,4,3,3.3,5,5,4,4,4,4,4,4,4.3,4,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 60,SUBCONTRACTOR,,,,Data Scientist,,,,,,,,,,WW International - SOW03 - Data Science and Analytics,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 61,SUBCONTRACTOR,,,,Cloud Engineer,"BI Tools: MicroStrategy 10.10, Tableau 2020, Superset, Grafana, Domo, Kibana
+Databases/Tools: Teradata, DB2, Oracle, SQL Server, MySQL, MS Access, ERWIN, Druid, Solr, Elas-ticSearch, Cassandra, Presto, Snowflake
+Big Data: HDFS, Hue, HIVE, HBASE, Spark, SQOOP, Hortonworks and Cloudera distribution
+Integration Tools: Datastage, Informatica, Talend, Kafka, Spark Streaming
+Data Management: Informatica EDC and Informatica BDM/DQ
+Application Server: Web logic, WebSphere, Windows IIS, Express, NGNIX
+Languages: JAVA, JavaScript, React, Angular, Python, COBOL
+Operating System: OS 390, Windows, Linux, Unix, Sun Solaris, iOS
+Others: Spark MLLib, Tensorflow, Scikit Learn, Azure",,Electronics & Communication Engineering Bachelor degree,,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 62,W2,,,07/2021,ETL Engineer,,Building a data warehouse using Matillion (expires: N.A.),• Bachelor of Technology in Computer Science,No,"C++
+CSS
+HTML
+Java
+Node
+SQL","Angular
+Node
+Python",N/A,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,4,4,N/A,N/A,5,5,4.6,5,4,4,4,N/A,5,5,,4.5,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 63,W2,https://docs.google.com/document/d/1_ux0d0t-MqIJHWzzYV77DynydxZZbn8-rMmUyRBLs14/edit,,,ETL Engineer,"• AWS Services: Ec2, Elastic Beanstalk, EFS, VPC, RDS, S3, Glacier, IAM, Kinesis, Cloud Front, Cloud Watch, Cloud Trail, Cloud Formation, DynamoDB, Lambda, Route53, SNS, SQS, API Gateway, Code Pipeline, Code Build, Elastic Search, Code Deploy etc.
+• Configuration Management: Ansible, Chef
+• Programming Languages: Scala, Python, Perl, Shell scripting.
+• Source Code Management: GIT, Bitbucket, Code Commit
+• Operating systems: Windows, Linux, Unix, Ubuntu, RHEL, Cent OS and Solaris 
+• Databases: SQL Server, Oracle, MySQL 
+• Web/Application Servers: Apache Tomcat, WebLogic, Oracle Application Server
+• DevOps Tools: AWS Code Pipeline, Code Build, Code Deploy, Elastic Beanstalk, Jenkins, Bamboo, Docker, Jira, Bugzilla, Splunk, Nagios
+• Cloud Technologies: Snowflake, SnowSQL, SnowpipeAWS.","Oracle Certified (expires: )
+
+Cognos Certified --It is Training and not Certification (expires: )",• Bachelor of Science in Computer Science,,,,,,,Solar Turbines Incorporated - SOW03 - Phase 3 Non-ERP Migration,,,,,,,,,,,,,,,,,,,AWS Professional Certification (plans to complete by 03/21/21),"-
+
+-"
+TRUE,Person 64,W2,,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 65,SUBCONTRACTOR,,,,BI Developer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 66,W2,,,09/2021,ETL Engineer,"Java, Snowflake, AWS, Fivetran, Matillion, Docker, Kubernetes, Machine Learning, Web-Services: Restful+SOAP, SQL, Data Warehouse, Microservices, Hibernate, Spring, React, HTML, CSS, Python, Jenkins, GIT",,"Computer Science, Guru Nanak Dev University Bachelor of Technology",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 67,W2,,,09/2021,ETL Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 68,W2,https://drive.google.com/file/d/1ZIvgxuQxQYHQVvUEDVqxFJ7jVZAVMC3D/view?usp=sharing,,,Platform Engineer,"• EDH Upgradation
+• Hive
+• Ranger/Knox
+• Impala
+• YARN
+• MapReduce/Spark
+• Zookeeper
+• Jira 
+• Sqoop/Flume/Kafka
+• Linux
+• AWS/GCP architect professional
+• Capacity/Cluster Planning
+• HDFS
+• Sentry/Kerberos/TLS/SSL
+• MySQL, Maria","AWS Certified Solutions Architect - Associate (expires: 12/09/22)
+
+Big Data 101 (expires: )
+
+Certified Kubernetes Administrator (expires: 06/12/24)
+
+Google Professional Cloud Architect (expires: 01/29/23)
+
+Hadoop 101 (expires: )
+
+HashiCorp Certified Terraform Associate (expires: 03/10/22)
+
+AZ-900 - Microsoft Certified Azure Fundamentals (expires: N/A)
+
+Six Sigma Yellow Belt (expires: N/A)
+
+Scrum Fundamentals Certified (expires: N/A)",• Bachelor of Engineering in Electronics and Telecommunication,,,,,,,Privacera - Harsh Extension,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 69,W2,,TRUE,06/2021,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),• Bachelor of Technology in Computer Science,No,"CSS
+Flask
+HTML
+Python
+SQL","Python
+SQL",29th June - 4th July,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,4,4,N/A,N/A,4,4,4.2,5,5,5,5,N/A,5,4,,4.8,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 70,W2,https://docs.google.com/document/d/1KFTrdP01PWxx1Tfkt1mMesuu9j2a-41UoIxnMzoq6AE/edit?usp=sharing,,,Platform Engineer,"• HDP 2.3-2.6
+• Hive/LLAP
+• Oozie
+• Ranger
+• YARN
+• MapReduce
+• Zookeeper
+• Docker
+• Ranger KMS
+• Sqoop
+• Spark
+• Kubernetes
+• HDFS
+• Kafka
+• Druid
+• Bash Scripting","Certified Kubernetes Administrator (expires: 12/05/22)
+
+HashiCorp Certified Terraform Associate (expires: 03/05/22)
+
+HDP Certified Administrator (HDPCA) Certification (expires: N/A)",• Bachelor of Technology in Computer Science,,,,,,,Privacera - SOW11 - PCR2 - Himanshu 3 month extension,,,,,,,,,,,,,,,,,,,AZ-104 Microsoft Azure Administrator Associate (plans to complete by 02/15/21),"-
+
+-"
+TRUE,Person 71,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 72,W2,https://docs.google.com/document/d/1yJ5_5vwe0ZCcayqStpDnQkWh2W2ykBV-5HJciOc7Ego/edit?usp=sharing,,,ETL Engineer,"• OS: Windows, Windows server 2012/16 r2
+• BI Tools: Tibco Spotfire Professional
+• Version: 6.5 to 10.6
+• Scripting: IronPython, R, JavaScript
+• Other BI Tools: PowerBI, Tableau
+• ETL Tool: Alteryx
+• RDBMS: MySQL, Oracle, SQL Server 2016, HANA
+• Security: LDAP/AD configuration in Spotfire server, Row/Data and Page level, VPD package Oracle
+• Big Data: Hive
+• Cloud: BigQuery",,• Bachelor of Technology in Computer Science & Engineering,,,,,,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by 05/31/21),"-
+
+-"
+TRUE,Person 73,W2,,TRUE,08/2021 - Group 1,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.E(Computer Engineering),,"C
+Numpy
+Pandas
+PowerBI
+Python
+matplot","Python
+R",,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,4,3,3,N/A,N/A,4,4,3.6,4,4,4,N/A,N/A,5,5,,4.4,,,"-
+
+-"
+TRUE,Person 74,W2,https://docs.google.com/document/d/17HG9C9TK1A3lS1x68Bn-r3PUZS0djWvo3antdpphYCo/edit,,,Cloud Engineer,,"Databricks Certified Associate Developer for Apache Spark 2.X with Python (CRT020) (expires: N/A)
+
+Google Data Engineer Professional (expires: 01/01/22)
+
+Snowflake Certified Associate (expires: Unknown)
+
+SnowPro Core (expires: 03/29/23)
+
+Building a Data Warehouse using Matillion (expires: Unknown)
+
+Microsoft Certified: Azure Data Engineer Associate (expires: 10/02/22)
+
+Fivetran (expires: 09/02/23)",,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 75,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),BCA(computer science),,"PowerBI
+Python
+SQL","Blockchain
+Cloud Technologies",,,,,2,2,3,N/A,N/A,4,4,3.0,3,3,4,N/A,N/A,4,4,,3.6,,,"-
+
+-"
+TRUE,Person 76,SUBCONTRACTOR,,,,Cloud Engineer,"• Architecture (Data, Application, ETL, Big Data,
+Enterprise, Solutions, Implementation, BI),
+Project, Technical, Client, and IT Management
+• Cloud – AWS, GCP, AZURE
+• OS – Unix / Linux / Windows / VMS / IOS
+• Databases - Netezza, Vertica, Oracle, Sybase, DB2,
+Ingres, Teradata, MsSQL, MySQL, Informix,
+Paraccel, GreenPlum, AWS RedShift, IBM DashDB,
+SnowFlake, Hadoop, Spark
+• ETL – IBM DataStage / Abinitio / Informatica /
+Talend / SnapLogic, Cassandra
+• Languages – Perl, Python, GoLang, Bash, C++, C,
+Java, Node.js, Scala, Lua","Certified IBM Cloud Architect (expires: )
+
+Certified IBM Cross-Platform Architect (expires: )
+
+Certified IBM Netezza Specialist (expires: )
+
+Expressor (QlikTech) ETL (expires: )
+
+Netezza Advanced Performance Certification (Bronze,
+Silver) (expires: )
+
+CDC LITS Plus LIMS Certification (expires: )
+
+NEDSS/PHIN LIMS Certification (expires: )
+
+ORACLE 8i Developer Certification (expires: )
+
+ORACLE 8i DBA Certification (expires: )
+
+Internet Security Certification, Firewalls and Global
+Networks (expires: )
+
+ORACLE for Advanced Developers (expires: )
+
+ORACLE System 7 Multi-Threaded Server Tuning, (expires: )
+
+ORACLE System 7 Architecture (expires: )
+
+ORACLE System 7 Database Administration (expires: )
+
+EDI/UNIFACT/X12 Certification (expires: )
+
+SpeedWare E-business Certification (expires: )
+
+Document Imaging Certification a (expires: )
+
+Workflow Certification (expires: )
+
+ORACLE Application Developer (expires: )
+
+INGRES Advanced Developers (Version 6.3+) (expires: )","• BSc, Computer Math and Business Administration. Minor Biology",,,,,,,Tech Data - SOW1 - Snowflake Assessment,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 77,W2,,,,ETL Engineer,,,,,,,,,,Caterpillar Inc. FPD - SOW5 - Snowflake/Matillion Assistance,,,,,,,,,,,,,,,,,,,Microsoft Azure Fundamentals AZ-900 (plans to complete by ),"-
+
+-"
+TRUE,Person 78,W2,https://docs.google.com/document/d/1M5vzAwl09Z_oFy27FfLpmVAooN9NCXNdmlG6GLJb4AY/edit?usp=sharing,,,Cloud Engineer,"• Big Data: Spark, Hadoop, HBase, Phoenix, HDFS, Kafka
+• Cloud:  Google Cloud, Microsoft Azure
+• DB/DWH: Oracle, MySQL, Cassandra, Snowflake, MongoDB, MarkLogic, BigQuery
+• Languages: Java, Scala, Python
+• Tools/Frameworks:  Azure Data Factory, Google Dataflow, APIgee. Play, Spring, Hibernate, JSF, Maven, SBT, Akka, Docker
+• OS:  MacOS, Linux, Windows","Google Certified Data Engineer (expires: 01/01/21)
+
+Scala (expires: )",• Bachelor of Engineering in Computer Science,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 79,W2,https://docs.google.com/document/d/11vMqdeQkf4lXHu_7dZ0QbgFEl8Rbja01h3YsyuZXEPc/edit?usp=sharing,,,Platform Engineer,"• OS: Linux
+• Containers: Docker
+• Scripting: Shell Scripting
+• RDBMS: MySQL, MariaDB
+• Security: LDAP/AD Integration, Ranger, Sentry
+• Public & Private Clouds: AWS, Azure Cloud
+• Protocols:  TLS/SSL, HTTP, SSH
+• Version Control: GitHub
+• Big Data: HDFS, Hive, MR, Spark, YARN
+• High Availability: Hive, HDFS, Ranger, MySQL, MariaDB & Resource Manager","AZ-900 - Microsoft Certified Azure Fundamentals (expires: 02/24/22)
+
+AZ-104: Microsoft Azure Administrator Associate (expires: 11/22/22)",• Bachelor of Engineering in Mechanical Engineering,,,,,,,,,,,,,,,,,,,,,,,,,,Docker (plans to complete by 03/31/21),"-
+
+-"
+TRUE,Person 80,W2,,TRUE,07/2021,ETL Engineer,,,• B.Sc(Physics),No,C++,Python,N/A,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,4,5,N/A,N/A,5,5,4.8,5,4,5,N/A,N/A,5,5,,4.8,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 81,W2,,,,Cloud Architect,,Fivetran (expires: ),,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 82,W2,https://docs.google.com/document/d/1KkfJTCwXLhy_83eKarYfNIrbiGPbe4drKCo-xwTvvGw/edit,,,ETL Engineer,"• Big Data: Hive, Sqoop, Spark, Oozie, Kerberos, Hbase, Beeline, Snowflake
+• Cloud: GCP, Cloudera Manager, AWS, Azure
+• Databases: HiveQL, MySQL, PostgreSQL, Microsoft Access
+• Languages: Java, Javascript, C++, C#, Python and HTML
+• Integration/BI/Visualization: DBT",Fivetran (expires: ),"• IT, software development",,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 83,W2,,,,Delivery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 84,W2,,,,Project Management,"• Project Management
+• Delivery Management
+• Competency Management","Cloud Analytics Academy - Cloud Practitioner (expires: N/A)
+
+Cloud Analytics Academy - Executive Fast Track (expires: N/A)
+
+Special Libraries Association - Knowledge Management (expires: N/A)","• B.S. Geology
+• Minor in Spanish
+• Masters in Information Systems",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 85,W2,,,08/2021 - Group 1,ETL Engineer,"Oracle SQL,Informatica,PLSQL ,Unix,Core java",Building a data warehouse using Matillion (expires: ),,,,,,,,,4,4,4,4,N/A,4,4,4.0,4,4,4,N/A,N/A,4,4,,4.0,,,"-
+
+-"
+TRUE,Person 86,W2,,,08/2021 - Group 1,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"Kiras
+PowerBI
+Python
+Tenserflow
+matplot","AWS
+ETL
+Matillion
+Snowflake",,,,,4,4,4,N/A,N/A,4,4,4.0,3,3,3,N/A,N/A,3,3,,3.0,,,"-
+
+-"
+TRUE,Person 87,W2,https://docs.google.com/document/d/1OcqvrqJC6fxUhsuj-1FrKsmwyL36nNy97gVipeRx9a8/edit,,,ETL Engineer,"• Languages: Python, C#.Net, ANSI SQL,  XML, MDX, DAX, JavaScript, PL/SQL, Java, C++, C and HTML
+• Platforms and software: Snowflake, PowerBI, Tableau 10, SSIS, SSAS, SSRS, Azure DEVOPS, MS Visual Studio, Crystal reports 9.0, TFS, VSS, MS Dynamics CRM 3.0, 4.0 and 2011, MS SharePoint
+• RDBMS: Oracle, SQL Server",,• Bachelor of Science in Computer Science,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 88,W2,https://docs.google.com/document/d/10Ef6p8HZ-yMVRSDfdR5G1YnlN0Okb9rkRxg-4fxI5As/edit?usp=sharing,,,Project Management,"• Project Management
+• Business Analyst
+• Agile/Scrum","Certified Associate in Project Management (CAPM) (expires: 02/23/25)
+
+Special Libraries Association - Knowledge Management (expires: N/A)
+
+Six Sigma Yellow Belt (expires: )
+
+Instructional Design Certification (expires: )",• B.S. Microbiology,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 89,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"C
+DBMS
+Deep Learning","Data Analysis
+Python",,,,,4,4,3,N/A,N/A,5,5,4.2,4,4,3,N/A,N/A,5,5,,4.2,,,"-
+
+-"
+TRUE,Person 90,W2,,,,Project Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 91,W2,,,06/2021,ETL Engineer,,,,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 92,W2,,TRUE,04/2021,ETL Engineer,,Building a data warehouse using Matillion (expires: ),• MTech(Power System Engineering),Yes,,Python,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,4,4,3,3,3,4,4,3.6,5,5,5,5,5,5,5,5,5.0,5,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 93,W2,,TRUE,08/2021 - Group 2,ETL Engineer,,,,,,,,,,,5,3,4,N/A,N/A,5,5,4.4,5,3,4,N/A,N/A,5,5,,4.4,,,"-
+
+-"
+TRUE,Person 94,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"C
+C++
+Python
+SQL",ML,,,,,3,3,3,N/A,N/A,3,2,2.8,3,3,3,N/A,N/A,3,2,,2.8,,,"-
+
+-"
+TRUE,Person 95,W2,,TRUE,06/2021,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),• Bachelor of Technology in Computer Science,No,"C#
+CSS
+Django
+HTML
+JQuery
+Web Design","Data Visualization
+Python
+SQL
+Stream Analysis",29th June - 4th July,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,5,4,N/A,N/A,5,5,4.8,5,5,5,5,N/A,5,5,,5.0,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 96,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Caterpillar Inc. FPD - SOW5 - Snowflake/Matillion Assistance,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 97,W2,,,,ETL Engineer,"DESIGN SOFTWARE: 
+- AUTOCAD
+- SOLIDWORKS
+- DNC
+- CIMCO
+- FUSION 360
+PROGRAMMING LANGUAGES:
+- PHP
+- C++
+- C# (EXTRA KNOWLEDGE IN .NET)
+- HTML
+-MYSQL & SQL
+- UNITY (VUFORIA)
+-PYTHON",,"Facultad de Ingeniería Mecánica y Eléctrica
+(UANL). San Nicolás, Nuevo León
+TECHNICAL CAREER IN SOFTWARE DEVELOPMENT,
+2019
+Facultad de Ingeniería Mecánica y Eléctrica
+(UANL). San Nicolás, Nuevo León
+TECHNICAL CAREER IN CNC, 2019
+Facultad de Ingeniería Mecánica y Eléctrica
+(UANL). San Nicolás, Nuevo León
+MECHATRONICS ENGINEERING. 2021",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 98,SUBCONTRACTOR,,,,Cloud Engineer,"• Big Data: HDP, Hive, HDFS, MapReduce, Spark
+• Cloud: GCP, Microsoft Azure
+• Databases: SQL Server, MySQL, Big Data ecosystem databases 
+• Data Warehouse: BigQuery
+• Languages: Scala, Python
+• Frameworks and tools: Spark, Docker, Kubernetes, DBT, Azure Databricks, Azure Data Factory, ADLS Gen2, Azure DevOps, Matillion",Fivetran (expires: ),,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 99,W2,https://docs.google.com/document/d/1x137m_HKnihZH6U3rUiuiUo0zdxpJwYfBUDYLrEarB8/edit?usp=sharing,,,ETL Engineer,"• Big Data: Spark
+• Cloud: Azure
+• ETL: Nifi,Matillion
+• Data Warehouses: Snowflake, Azure Data Warehouse
+• Languages: Java, Python
+• Containers:  Docker
+• Scripting:  Shell Scripting
+• Operating Systems: Linux,Windows","AZ-900 - Microsoft Certified Azure Fundamentals (expires: Unknown)
+
+Oracle Certified Associate Java Programmer (OCAJP 7) (expires: 12/31/18)
+
+SnowPro Core (expires: 02/03/22)
+
+Building a data warehouse using Matillion (expires: Unknown)
+
+DP-900 Azure Data Fundamentals (expires: Unknown)
+
+Fivetran (expires: )",• Bachelor of Technology - Computer Science and Engineering,,,,,,,ExxonMobil - DS&A CENSATT Resource,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 100,W2,https://docs.google.com/document/d/1SAsQov8UKaqh2om6jhpuKsWKEiOjYA6g5mpTAqCI2dw/edit?usp=sharing,,,Cloud Engineer,"• Big Data: Mapreduce, Sqoop, Hive, Oozie, Spark, Flume, Kafka, Solr, NiFi
+• Cloud: AWS, Azure
+• Databases: Cassandra, Hbase, Hive, Snowflake
+• RDBMS: MySQL, MS SQL Server, Oracle
+• Languages: Scala, Python, Java, C/C++, Lotus Notes, XML, JSON, HTML5, CSS, Javascript, Shell Scripting, Matlab","Microsoft Certified: Azure Solutions Architect Expert (expires: 08/01/22)
+
+MapR Certified Spark Developer (expires: )
+
+Building a Data Warehouse using Matillion (expires: Unknown)
+
+Fivetran (expires: )",• Master of Science in Software Systems,,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 101,SUBCONTRACTOR,,,,ETL Engineer,,,,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 102,W2,,,06/2021,Cloud Engineer,,,• Bachelor of Technology in Computer Science,No,"Android
+C++
+Fullstack
+ML
+Numpy
+Pandas
+Python","Python
+SQL",29th June - 4th July,,AdaptHealth - SOW1 - Snowflake Assessment (Phase 1),,5,4,4,N/A,N/A,4,5,4.4,5,2,3,3,N/A,3,4,,3.3,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 103,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"Python
+SQL","AI
+Cloud Technologies",,,,,4,3,3,N/A,N/A,3,3,3.2,4,3,3,N/A,N/A,3,3,,3.2,,,"-
+
+-"
+TRUE,Person 104,W2,,,,Project Management,,Fivetran (expires: ),,,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 105,W2,https://docs.google.com/document/d/1ov_mCgzSRq6RcjuSh9JoFCX3EUHVD7Dva0kgXkE2LBs/edit?usp=sharing,,,Cloud Engineer,"• Cloud: AWS
+• Big Data: Hadoop, Hive, MapR, Redshift, S3
+• Data Science: R
+• Languages:  SQL, Python, Javascript, Spark
+• Reporting Tools: SAS, Tableau, Domo, PowerBI
+• Platforms: HPCC, ECL
+• DBMS/RDBMS: Postgresql, SQL Server
+• IaC Tools: Terraform
+• Others: Google Cloud Backend, Dynamo, Trello, GitHub, ZenHub, Jira","Azure dp 200 (expires: 06/01/22)
+
+Azure dp 201 (expires: 06/01/22)
+
+AWS Big Data specialty now data analytics (expires: 05/01/21)
+
+Aws solutions architect associate (expires: 02/01/21)
+
+Aws developer associate (expires: 02/01/22)
+
+Aws machine learning specialty (expires: 12/01/21)","• Master of Science: Applied Statistics
+• Master of Business Administration: MBA
+• Bachelor of Business Administration: Finance",,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 106,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"C
+Java",Java,,,,,4,4,4,N/A,N/A,3,3,3.6,4,4,4,N/A,N/A,3,3,,3.6,,,"-
+
+-"
+TRUE,Person 107,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 108,W2,,,08/2021 - Group 1,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"C
+ML
+MySQL
+PowerBI
+Python","AI
+Cloud Technologies
+ML",,,,,3,3,3,N/A,N/A,3,3,3.0,3,3,3,N/A,N/A,3,3,,3.0,,,"-
+
+-"
+TRUE,Person 109,W2,,,07/2021,ETL Engineer,,,• Bachelor of Engineering in Computer Science,No,"C++
+Java
+Python","Azure
+Java
+Python",18th July- 22nd July,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,3,3,N/A,N/A,3,4,3.6,5,4,3,4,N/A,4,4,,4.0,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 110,SUBCONTRACTOR,,,,Cloud Architect,,,,,,,,,,DB Schenker - SOW1 - Snowflake Assessment,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 111,W2,,TRUE,08/2021 - Group 1,Cloud Engineer,,,B.Tech(Computer science) - Artifical Intelligence,,"AI
+Deep Learning
+Kiras
+Pandas
+Python
+Tenserflow
+YOLO","JS
+Python",,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,5,5,5,N/A,N/A,5,5,5.0,5,5,5,N/A,N/A,5,5,,5.0,,,"-
+
+-"
+TRUE,Person 112,W2,https://docs.google.com/document/d/1hrvpblrQ_GNbrMvemevzUplg1Pbm4HKKAXCyldI7nhY/edit?usp=sharing,,,ETL Engineer,"• ETL Tools: SSIS, Informatica, Pentaho, Datastage 
+• Databases:  SQL Server, Oracle, MySQL, Redshift, MongoDB, Snowflake, Big Query, Hive
+• Scripting: SQL Scripts, Python, Shell, Dynamic ETLs 
+• ETL Sources: FTP, AWS, Hadoop, APIs, CLI clients, Salesforce, Cloud Data, etc
+• Data Exploration: Metadata Injection, information schema, File headers, etc","AWS Certified Developer - Associate (expires: 02/16/24)
+
+SnowPro Core (expires: 01/04/23)
+
+IBM Certified Specialist - DB2 UDB V6/V7 User (expires: N/A)
+
+Oracle 9i Database Administration Fundamentals (expires: N/A)
+
+Fivetran (expires: NA)",• Bachelor of Engineering in Chemical Engineering,,,,,,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 113,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 114,SUBCONTRACTOR,https://docs.google.com/document/d/1GZPK9FWNQKoS6ct0RyTM5RBrmNxyy1o8XFoTMoXr2kg/edit,,,ETL Engineer,"• Oracle DBA
+• Informatica
+• Redshift
+• Snowflake
+• Matillion
+• Python
+• Spark
+• Talend",,,,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 115,SUBCONTRACTOR,,,,Project Management,,,,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 116,SUBCONTRACTOR,,,,Software Engineer,"•	Expert in Java, Typescript, and JavaScript, fluent in Python, C, X++ (Dynamics AX), RPG ILE, and x86 assembly.
+•	SQL, specifically Microsoft SQL Server, Oracle, and PostgreSQL, and some DB2.
+•	E-commerce: shopping carts, credit card authorization, customer accounts, inventory, product management.
+•	Web and HTTP: Detailed knowledge of the HTTP protocol, web vulnerabilities (XSS, CSRF, escaping, SQL injection, etc),
+•	webserver internals, request/response via XHR/JSON.
+•	Collaborating with teammates to divide up problems and smoothly integrate separately developed components.
+•	Finding compromise between ideal solutions and business time constraints.
+•	Structuring code to make mistakes difficult to make, and easier to catch.
+•	Dry debugging problems through inspection of code and log files.
+•	Deep diving into a problem through libraries, packet dumps, disassembled code, etc, beyond an application's boundaries.
+•	Data structure design and storage, for integrity and performance.
+•	Extensive experience maintaining both Windows and Linux machines, limited experience with IBM iSeries (AS/400).",,,,,,,,,WW International - SOW02 - Snowflake & Python Data Engineering - Near Shore,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 117,W2,,,08/2021 - Group 1,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.E(Computer Science),,"Java
+ML
+PowerBI
+Python",ML,,,,,4,4,3,N/A,N/A,4,4,3.8,4,4,4,N/A,N/A,4,4,,4.0,,,"-
+
+-"
+TRUE,Person 118,W2,https://docs.google.com/document/d/1wrLwG1VOHrdjMzY0-y0WU4UZFWfdc4z52RGUDIIDcOA/edit?usp=sharing,,,Cloud Engineer,"• Big Data: HDP, CDP, Hive, HDFS, HBase, MapReduce, Nifi, Spark, Sqoop, Oozie
+• Cloud: Azure
+• Databases: MySQL and Big Data ecosystem databases
+• Languages: Java, Scala
+• BI & Visualization: Tibco Spotfire","Databricks Certified Associate Developer for Apache Spark 2.X with Scala (CRT020) (expires: Unknown)
+
+AZ-900 - Microsoft Certified Azure Fundamentals (expires: N/A)
+
+Snowflake Certification - Associate Architect (expires: Unknown)
+
+SnowPro Core (expires: 03/13/23)",• Master of Science in Computer Science,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 119,W2,https://docs.google.com/document/d/12raVfm2MrWDch7fOy5e1P0IJtCO9JkhREeJqLkQRAE4/edit,,,ETL Engineer,"• OS: Linux
+• Containers: Docker 
+• Cloud: Snowflake, ADF, Matillion, DBT
+• Version Control: GitHub, GitLab
+• Big Data: HDFS, Hive, Oozie, Sqoop, Nifi
+• Programming : Java, Scala, Python, SQL","SnowPro Core (expires: 02/03/22)
+
+Fivetran (expires: )",,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,Databricks Certified Associate Developer for Apache Spark 2.X with Scala (CRT020) (plans to complete by 03/31/21),"-
+
+-"
+TRUE,Person 120,W2,https://docs.google.com/document/d/1JnMrJQheHUTKFOqarl7AwOiEHzEcsBVy/edit,,,Platform Engineer,,"Cloudera Certified Administrator (CCA-131) (expires: 06/05/21)
+
+Professional Cloud Architect (GCP) (expires: 09/03/21)
+
+Google Professional Cloud Architect (expires: 09/03/21)
+
+HashiCorp Certified Terraform Associate (expires: 02/17/22)
+
+HDP Certified Administrator (HDPCA) (expires: No expiry)",,,,,,,,TCF Bank - SOW02 - PCR02 - Big Data Administrator Extension,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 121,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Mechanical),,"Java
+MongoDB
+MySQL
+Springboot","AWS
+Hadoop
+ML
+Snowflake",,,,,4,3,3,N/A,N/A,3,3,3.2,4,3,3,N/A,N/A,3,3,,3.2,,,"-
+
+-"
+TRUE,Person 122,W2,,,06/2021,ETL Engineer,"Informatica PowerCenter, SQL, Oracle,ETL,Data Warehouse,Unix,Snowflake,Matillion,DBT",,• M.E in Electronics and Telecommunication),No,"ETL
+Informatica
+Oracle
+SQL","ETL
+Fivetran
+Python
+SQL",,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,4,4,N/A,N/A,4,4,4.2,5,4,5,5,N/A,4,4,,4.5,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 123,W2,,,06/2021,ETL Engineer,,Building a data warehouse using Matillion (expires: ),• Bachelor of Engineering in Computer Science,No,"C
+C++
+Java
+Python","Python
+SQL",,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,3,3,N/A,N/A,3,3,3.4,4,5,5,N/A,N/A,5,4,,4.6,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 124,W2,,,,ETL Engineer,"•Informatica
+•Cloud,
+•SSIS
+•Qlikview
+•Amazon Web Services
+•ReltioDatawarehouse
+•Tableu
+•Microstrategy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 125,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"C
+HTML
+Java
+Python
+SQL","AI
+Cloud Technologies",,,,,4,4,3,N/A,N/A,3,3,3.4,4,4,3,N/A,N/A,3,3,,3.4,,,"-
+
+-"
+TRUE,Person 126,W2,https://docs.google.com/document/d/1CDwm5n7_I9iV0dXVXsuIK7vuDW1ce3HNIUhFefYUH2E/edit?usp=sharing,,,Cloud Engineer,"• Data Processing: Spark, Flink, Storm, YARN, Kafka Streams
+• Data Integration: IBM Datastage, IBM Maestro, Matillion, Snowflake, Snowpipe, Azure Data Factory, Azure Active Directory, Azure storages, Azure Cosmos DB, Dockers, Confluent Kafka, NiFi, StreamBase, Streamsets
+• Databases: Oracle, Ingres, Sybase, DB2, Hbase, Cassandra, Snowflake, Titan, OrientDB, Redis, Hive
+• Orchestration: Azure DevOps CI/CD pipeline, Jenkins CI/CD.
+• Languages: Python, Java, C, Kotlin, R, C++
+• Tools/Utilities: MS Azure Storage Explorer, IBM Datastage Designer, Solr, Slider, HDP Platform tools, Cloudera Platform tools.","C certified (expires: 10/20/28)
+
+Unix certified (expires: 10/20/28)
+
+Oracle certified (expires: 10/20/28)
+
+Six Sigma Green Belt (expires: 11/30/28)","• Bachelor's Degree with Computers
+• Masters with Business Administration",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 127,W2,https://docs.google.com/document/d/1T421gQI8SgVV0fNJ_wAyklI_e7YouixdghElRZWym6s/edit?usp=sharing,,05/2021,ETL Engineer,"• Scripting: Shell Scripting
+• Data Warehouse: Redshift
+• RDBMS: SQL Server, MySQL, Postgres, Sybase
+• Cloud: AWS
+• ETL:  Pentaho Data Integration
+• Scheduling tool:  Jenkins",,• Bachelor of Engineering in Computer Science,,,,,,,,,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 128,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"C
+CSS
+HTML
+Python
+SQL","Python
+Web Technology",,,,,4,2,2,N/A,N/A,2,3,2.6,4,3,3,N/A,N/A,3,4,,3.4,,,"-
+
+-"
+TRUE,Person 129,W2,,,,ETL Engineer,,,,,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 130,SUBCONTRACTOR,,,,Cloud Engineer,"•Operating systems: Windows XP/7/8/10, Ubuntu, Unix, Linux 
+•Languages: R, SQL, Python, Shell Scripting, Markup languages HTML, XML, JavaScript.
+•Databases: Oracle 11g, SQL Server, MS Access, MySQL, MongoDB, PostGRE SQL, Cassandra PL/SQL, T-SQL, ETL.
+•Big Data Ecosystems: Hadoop, MapReduce, HDFS, HBase, Hive, Pig, Impala, SparkMLLib. Pyspark.
+•Analytics tools: Alteryx, jupyter notebook, zeppelin, Databricks
+•Cloud Platform: Azure, Aws 
+•IDE: R Studio, Jupyter Notebook, zeppelin, Eclipse, NetBeans, Atom.
+•BI and visualization: Tableau, SSAS, SSRS, Informatica, QuickView
+•Version Controls: GIT, SVN",DP-201 Designing an Azure Data Solution. (expires: 01/04/23),"• Master of science, Major: Information Assurance from Wilmington University, DL
+• Bachelor Engineering, Major: Electronics & Communications from JNTU Hyderabad, INDIA",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 131,W2,,,,ETL Engineer,,"SnowPro Core (expires: 02/02/23)
+
+Building a Data Warehouse using Matillion (expires: N/A)
+
+Fivetran (expires: )",,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 132,W2,,,,Project Management,,,,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 133,W2,,,08/2021 - Group 2,Cloud Engineer,,,B.Tech(Computer science),,"Java
+SQL
+Salesforce","AWS
+Salesforce
+Snowflake",,,Mutual of Enumclaw SOW2,,4,5,5,N/A,N/A,5,5,4.8,4,5,5,N/A,N/A,5,5,,4.8,,,"-
+
+-"
+TRUE,Person 134,SUBCONTRACTOR,,,,Cloud Architect,,,,,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 135,W2,,TRUE,08/2021 - Group 1,Cloud Engineer,,,B.E(Computer Science),,"MongoDB
+React Framework
+SQL
+UI","Data Engineering
+JS
+MySQL
+Python",,,Precision Drilling Corporation - SOW2 - PCR3 - Cloud Data Platform Assessment,,5,5,5,N/A,N/A,4,4,4.6,3,3,3,N/A,N/A,3,3,,3.0,,,"-
+
+-"
+TRUE,Person 136,W2,,,,Cloud Engineer,"Frameworks: Django, CSS , Bootstrap.
+Web Technologies: HTML,  CSS, Java Script,  JQuery, J SON,  XML.
+Programming Languages: Python, HTML, CSS, SQL.
+Version Control: Git,  GitHub.
+Cloud Computing: AWS EC2,  S3.
+Analytic Tools: PySpark.
+Application servers: Apache Tomcat,Nginix, JBoss,WebLogic,WebSphere.
+Databases: Oracle 10g, My SQL, MongoDB.
+IDEs/ Development Tools: PyCharm , Anaconda – Jupyter Nb , Atom, Spyder , Microsoft Visual Studio.
+Operating Systems: Windows, Red hat Linux .
+Protocols:TCP/IP, HTTP/HTTPS, SOAP.
+Deployment Tools: Heroku, Jenkins.
+Issue Trackers: HPALM 12.5.
+Web Service: REST –JSON, DRF (Django Rest Framework",,"B.E –Information Technology - Shivaji university, Kolhapur-Maharashtra",,,,,,,"Waste Management - SOW7 - ""Elements"" SQL Server to Snowflake Migration Execution (Phase 2)",,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 137,W2,https://docs.google.com/document/d/1wzYwNLVeVsEEvmiDQgvmzpgMkx6mTtIpu0XnyFkeViI/edit?usp=sharing,,,ETL Engineer,"• Big Data: HDP and CDH (Spark, Kafka, Hive, Impala, HBase, HDFS, Sqoop, NiFi, Pig, Security)
+Databases: Hive, HBase
+• Scripting: Python, Shell Scripting
+• BI & Visualization: Tableau, Spotfire, PowerBi
+• RDBMS: Oracle, SQL Server, MySQL, Postgres
+• Cloud: AWS, Azure
+• DevOps tools: Ansible, Terraform, Drone
+• Microservices: Docker, Kubernetes","ITIL v3 (expires: 12/31/21)
+
+Terraform OSS Certification (expires: 12/31/21)
+
+AWS Certified Solutions Architect – Associate (expires: 02/01/22)","• Post Graduate Diploma in Information Technology
+• Bachelor of Engineering in Environmental Engineering",,,,,,,TCF Bank - SOW02 - PCR01 - Big Data Architect Extension,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 138,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Schlumberger - SOW 7 - Well Construction Store Data Engineering,,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 139,W2,https://docs.google.com/document/d/12WTDjnpft3hFW-COcvw0cN6WxhsPrbCfcliLxUpRdMc/edit,,,ETL Engineer,"• Big Data: HDP and CDH (Spark, Kafka, Hive, Impala, HBase, HDFS, Sqoop, Pig) 
+• ETL Tools: Informatica, Abinitio 
+• Databases: Hive, HBase, Snowflake 
+• Scripting: Python, Shell Scripting 
+• BI & Visualization: Tableau  
+• RDBMS: Teradata, Oracle, SQL Server, MySQL, Postgres 
+• Cloud: AWS 
+• DevOps tools: Jenkins, Jules","Java Certified Developer (expires: )
+
+AWS Certified Solution Architect (expires: )",• Bachelor in Computer Science,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 140,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"C
+C++
+CSS
+HTML
+Python",Django,,,,,4,4,4,N/A,N/A,3,3,3.6,4,4,4,N/A,N/A,4,4,,4.0,,,"-
+
+-"
+TRUE,Person 141,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 142,SUBCONTRACTOR,https://docs.google.com/document/d/1qd-pMi9ZcNSSdGLBonMxXPMmrBrbWcmxGKD1FQ1f_r4/edit?usp=sharing,,,Cloud Architect,"• Cloud Services & Technologies: AWS
+• Programming Languages: Bash, Python
+• Data Warehousing: Netezza, S3, Redshift
+• Automation: Jenkins files/Groovy
+• Monitoring: Cloudwatch
+• Security: Cloudtrail
+• Streaming Data: Kinesis
+• Web Services: EC2, Cloudformation, CodeStar
+• Querying Tools: Spectrum, Athena
+• Other: Lambda, AWS API, IAM, Dynamo, SES, Glacier",,,,,,,,,SEI - SOW1 - Oracle to Snowflake Migration Assessment/POV,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 143,W2,https://docs.google.com/document/d/10HkosYkRYhiLXsXr6TSAJWxOTyvdiio2sGtSGFNS-1c/edit,,,Cloud Engineer,"• Cloud: AWS
+• Databases: Snowflake, Oracle
+• Languages: Javascript
+• Software: Toad, PuTTY, WinSCP, SQLDeveloper
+• Orchestration: CA7, Control M, Crontab
+• Big Data: Snowflake
+• Operating Systems: Unix/Linux, Windows 
+• Scripting: Shell Scripting
+• RDBMS: Oracle",,• Bachelor of Engineering (Electronics and Telecom),,,,,,,Caterpillar Inc. FPD - SOW5 - Snowflake/Matillion Assistance,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 144,W2,,TRUE,06/2021,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),• Bachelor of Technology in Computer Science,No,"API
+Django
+Front
+Python","Data Analysis
+DevOps
+Docker
+Kubernetes
+Ngnix
+Web Development",29th June - 4th July,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,5,4,N/A,N/A,5,5,4.8,5,5,5,5,N/A,5,5,,5.0,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 145,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,Python,"AI
+AWS
+Cloud Technologies
+ML",,,,,4,4,4,N/A,N/A,4,4,4.0,4,4,4,N/A,N/A,4,4,,4.0,,,"-
+
+-"
+TRUE,Person 146,W2,,,,Cloud Engineer,,"AWS Certified Developer - Associate (expires: 12/17/22)
+
+AWS Certified Cloud Practitioner (expires: 06/06/22)
+
+Databricks Certified Associate Developer for Apache Spark 2.X with Python (CRT020) (expires: N/A)
+
+Snowflake Essentials (expires: )",,,,,,,,ExxonMobil - SOW4 - PCR2 - EEDDE Indonesia,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 147,SUBCONTRACTOR,,,,BI Developer,,,,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 148,W2,,,,Delivery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 149,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,"C
+C++
+Java","AI
+HTML",,,,,3,2,3,N/A,N/A,4,3,3.0,3,2,3,N/A,N/A,4,3,,3.0,,,"-
+
+-"
+TRUE,Person 150,W2,https://docs.google.com/document/d/14A9YZapl05v7MzcnQc71oj1ngPzYe7-c/edit,,,Project Management,"• Project Planning
+• Risk Management 
+• Scrum Master
+• Supply Chain
+• Problem solving
+• Collaboration 
+• Result oriented
+• Business Analyst","Certified Scrum Product Owner (expires: )
+
+Certified Scrum Master (expires: )","• Bachelor of Engineering
+• Master’s in Business Administration",,,,,,,"Waste Management - SOW7 - ""Elements"" SQL Server to Snowflake Migration Execution (Phase 2)",,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 151,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 152,W2,,,,Project Management,,,,,,,,,,Solar Turbines Incorporated - SOW03 - Phase 3 Non-ERP Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 153,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 154,W2,,,08/2021 - Group 1,Cloud Engineer,,,B.Tech(Computer science),,"CSS
+HTML
+JS
+Numpy
+Python
+SQL","ETL
+ML",,,,,4,5,4,N/A,N/A,4,5,4.4,4,5,4,N/A,N/A,4,5,,4.4,,,"-
+
+-"
+TRUE,Person 155,SUBCONTRACTOR,,,,BI Developer,,,,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 156,W2,,,09/2021,ETL Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 157,W2,,,,Delivery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 158,W2,https://docs.google.com/document/d/1gK87wSh6PZc3lE_WC8aj55QuoLyhrlBz15GVA_4I_fA/edit?usp=sharing,,,Cloud Engineer,"• Architecture: Microservices, SOA
+• Languages:  Java, .NET, JavaScript, Python
+• DevOps: Jenkins, Azure DevOps
+• Cloud-Native: Docker, Kubernetes
+• API Development/Integration: RESTful, Mulesoft
+• UI/UX: React, OutSystems
+• Database Systems: Oracle, SQL Server, Snowflake, PostgreSQL, MySQL
+• Data Engineering Tools: Matillion, Presto
+• Cloud: Amazon Web Services, Microsoft Azure storage and compute, ADF, AKS
+• Messaging: Azure Event Hub, Apache Kafka",,,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 159,W2,,,,Cloud Engineer,,,,,,,,,,Schlumberger - SOW 7 - Well Construction Store Data Engineering,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 160,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 161,W2,,,,Cloud Engineer,,,,,,,,,,AdaptHealth - SOW2 - Snowflake Implementation (Phase 2),,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 162,W2,,,,Delivery,,,,,,,,,,ExxonMobil - Fuels Analytics Snowflake Data Warehouse (Curitiba),,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 163,W2,https://docs.google.com/document/d/1_Noy-tWz9Jh1DeodGNFSsn7mRNWTApAUcDkqYxM89kE/edit?usp=sharing,,,Platform Engineer,"• Big Data Ecosystem: Mapr, HDFS, Yarn, MapReduce, Spark, Hive, HBase, Sqoop, Zookeeper, Kafka, Oozie, Hue, Knox, NiFi
+• Big Data Security: Kerberos, Ranger, Knox, Mapr Ticket, AD, LDAP, SSL/TLS, and TDE
+• Cloud Services:  AWS, Azure
+• Container Tech: Docker, Kubernetes
+• Other Tools:  JIRA, Confluence, ServiceNow, Remedy, TFS, Github, Rancher.
+• Operating Systems:  Windows, Linux, Unix, VMS
+• Databases:  MySQL, MariaDB, SQLServer","Certified Kubernetes Administrator (expires: )
+
+HDP Certified Administrator (HDPCA) (expires: )
+
+Redhat Certified Systems Administrator (expires: )
+
+Redhat Certified Engineer (expires: )
+
+Redhat Certified Administrator in Openstack (expires: )
+
+Collabera Tact Certified apache Hadoop Administrator (expires: )",• Bachelor of Engineering in Electronics and Telecommunication,,,,,,,Privacera - SOW2 - PCR 1 - Shivam 6 month extension,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 164,W2,,,,ETL Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 165,W2,https://docs.google.com/document/d/1zbGFAP-R7b1lUUjl5thHCcOUF07L95X4PY2M3JtMrj4/edit?usp=sharing,,,Platform Engineer,"• Hadoop Distributions: Cloudera, Hotornworks, CDP.
+• RDBMS: MySQL, PostgreSQL, Oracle.
+• Security: Kerberos+Active Directory, Hue, Ranger, Knox, TLS/SSL, Ranger KMS.
+• Public Clouds: AWS Cloud, Azure Cloud.
+• Big Data: HDFS, Hive, Spark, YARN, Oozie, Data Analytics Studio (DAS).
+• High Availability: Namenode, Resource Manager, Hive_on_tez, Hive Metastore and Database.","Big Data 101 (expires: N/A)
+
+Hadoop 101 (expires: N/A)
+
+Hashicorp Certified Terraform Associate (expires: N/A)
+
+AZ-900 - Microsoft Certified Azure Fundamentals (expires: Unknown)
+
+Terraform associate (expires: Unknown)
+
+Six sigma Yellow Belt (expires: Unknown)",• Bachelor of Engineering in Electronics and Telecommunication,,,,,,,"Arlo Technologies, Inc. - SOW16 - PCR02 - Extension for Gaurav & Neeraj",,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 166,W2,https://docs.google.com/document/d/1DhcbIDw78LqEV3mVtpGlkvys6A_6043xc8DjrBfA80w/edit?usp=sharing,,,Cloud Engineer,"• Big Data: Hadoop, Spark, Kafka, Hive, HBase, Phoenix, HDFS, Sqoop, Oozie, Flume, Storm, Ambari
+• Cloud: AWS, EC2, S3
+• Databases: Oracle, MySQL, SQL Server, DB2, PostgreSQL
+• Languages:  Python, Scala, Java, Cobol, JavaScript, Shell Scripting
+• DevOps: Puppet, Nagios, Ganglia, Linux
+• DataScience: SAS, R, SPSS, Python, Numpy, Pandas","Fivetran (expires: )
+
+Databricks Certified Developer - Apache Spark 2.x for Scala (expires: )
+
+SAS Certified Base Programmer for SAS 9 (expires: )","• Bachelor of Engineering in Electronics and Communication
+• Management Development Program on Business Analytics and Business Intelligence",,,,,,,Fidelity Investments - SOW1 - Data Lake Hydration Staff Aug,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 167,SUBCONTRACTOR,,,,ETL Engineer,"• OLAP Tools: Micro strategy 9v, 10, Tableau
+• ETL Tools: Talend 6.x, 7.x (TOS & TIS), Informatica 8.5.1,9,9.5.1, DBT, Datastage
+• RDBMS: Oracle 10,11g, MS SQL Server 2008 & 2012,Sybase IQ
+Amazon Web services Redshift
+• Programming languages: C, Java
+• Operating system: Windows XP, Linux",,• Bachelor of Technology in Computer Science Engineering,,"C
+Java",,,,,AdaptHealth - SOW2 - Snowflake Implementation (Phase 2),,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 168,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),• B.E(Compter science),,"CSS
+Django
+HTML
+Python","ML
+Python",,,,,4,4,4,N/A,N/A,4,4,4.0,4,4,4,,,4,4,,4.0,,,"-
+
+-"
+TRUE,Person 169,W2,,,,Cloud Engineer,"• JAVA
+• Python
+• SQL
+• Advanced Microsoft Excel
+• Power BI
+• Azure Cloud
+• Azure Data Factory
+• Version Management Tool(Git)
+• COSMOS Big Data
+• SQL SERVER",Microsoft Certified: Azure Fundamentals(AZ-900) (expires: ),"B.E-Computer Science, Medicaps Institute of Science and Technology, Indore",,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 170,W2,,TRUE,04/2021,ETL Engineer,,,• BTech(Civil),Yes,,"Java
+ML
+Python
+R",,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,4,2,2,3,3,3,3,2.9,5,5,4,4,5,5,5,4,4.6,5,SnowPro Core (plans to complete by 10/03/21),"-
+
+-"
+TRUE,Person 171,W2,,,,ETL Engineer,"HDFS, Sqoop, Apache, Spark, MYSQL, HiveQL, Optimization, HBase, RDBMS, ETL, Hive, Scala, Hadoop, Skill Data Engineering",,"Bachelor's Of Engineering May - Electronics and Communications Engineering, VTU University Bangalore",,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 172,W2,https://drive.google.com/file/d/16edWMxYz1bO8xW2FrgS4vrELKiZcuLNo/view?usp=sharing,,,ETL Engineer,"• Spark/ Scala
+• Shell Scripting
+• Java EE 7
+• Eclipse
+• HDFS
+• MapReduce
+• Webservices/Rest
+• HDP 2.3
+• Hive
+• Sqoop
+• Spring/Hibernate
+• Snowflake	
+• NiFi
+• Oozie
+• Kafka
+• Git
+• AWS","AWS Certified Developer - Associate (expires: 01/22/23)
+
+AWS Certified Cloud Practitioner (expires: 01/08/22)
+
+Databricks Certified Associate Developer for Apache Spark 2.4 - Python (expires: Unknown)",• Master of Technology in Computer Science,,,,,,,"Netgear - SOW15 - PCR1 - Hive, NiFi, PySpark Offshore Development",,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by 09/30/21),"-
+
+-"
+TRUE,Person 173,W2,,,,Delivery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 174,W2,,,09/2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 175,W2,https://docs.google.com/document/d/1m3ZFLiBURhlNap6GqGwEij2XdYFoyoN1/edit?usp=sharing&ouid=111884111366553714635&rtpof=true&sd=true,,,Software Engineer,"• Databases: MS SQL Server, Oracle SQL Enterprise, MySQL, Redis (NoSQL)
+• Languages: Python3, SQL, PL/SQL, C++11, C, Perl
+• Operating Systems: Linux (Desktop/Embedded), Windows, OS X, other UNIX variants
+• Software: Gerrit/Git Hub/Git, Jenkins, Atlassian, PyTest, PyCharm, VMWare, MS Office, Google Office
+• Development Methodologies: Agile/Scrum (as both Scrum Master and team member)
+• Scripting: UNIX Bash
+• Web Technologies: HTML5, cURL, Apache WebServer, WS-Man/SOAP, Javascript
+• Framework: Python Tornado, Flask
+• Containers: Docker
+• Security: Open SSL",Sun/Oracle Object-Oriented Programmer (expires: ),"• M.S.E.E. in Computer Engineering
+• B.S.E.E. in Computer Engineering",,,,,,,AmeriHealth - SOW1 - BITS 2.0 Azure Migration,,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 176,W2,,,06/2021,ETL Engineer,,"Hands On Essentials - Data Warehouse (expires: )
+
+AWS Cloud Practitioner (expires: 06/10/24)
+
+Building a data warehouse using Matillion (expires: )",,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 177,W2,https://docs.google.com/document/d/11pY9Lysat5XxO1yUUXUjzjdGq_TZdH-s-6VSBijGJHU/edit?usp=sharing,,,Cloud Engineer,"• Big Data: HDP, HDF, NiFi, Phoenix, Apache Spark, Cloudbreak, Kakfa, YARN, Cloudbreak
+• Cloud: Azure 
+• Databases: Hive, HBase, MongoDB, Snowflake
+• Languages: Scala, Python/Shell Scripting, Java, C/C++, PySpark, Facebook’s Folly/Wangle libraries
+• RDBMS: Oracle, MySQL, Postgres
+• Operating Systems: Linux(CentOS, Ubuntu, Raspbian), Unix, Windows
+• ETL Experience: Kafka Streams, Azure Databricks, Azure DevOps, Cloudera DPS, Apache Spark, Docker, CI/CD
+• IDE’s: PyCharm, IntelliJ","Databricks certified Apache Spark 2.x Developer (expires: )
+
+AZ-900: Microsoft Azure Fundamentals (expires: )
+
+SnowPro Core (expires: 06/10/22)",• Bachelor of Engineering in Information Technology,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 178,W2,,,,Cloud Engineer,,"Databricks Certified Associate Developer for Apache Spark 2.X with Scala (CRT020) (expires: N/A)
+
+Snowflake Essentials (expires: )
+
+Databricks managing the machine learning lifecycle (expires: Unknown)
+
+Databricks Spark ETL Production (expires: Unknown)
+
+Databricks Spark ETL Extraction (expires: Unknown)
+
+Databricks Spark ETL Transformation and loads (expires: Unknown)
+
+DreamIO | D103 - DremoIO for Data Consumers (expires: Unknown)
+
+DreamIO | D102 - DremoIO Data Reflections (expires: Unknown)
+
+DreamIO | D101 - DremoIO Fundamentals (expires: Unknown)
+
+Building a data warehouse using Matillion (expires: Unknown)
+
+HANDS-ON ESSENTIALS – BADGE 1: DATA WAREHOUSING (expires: )
+
+Fivetran (expires: )",,,,,,,,ExxonMobil - SOW4 - PCR2 - EEDDE Indonesia,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 179,W2,,,,ETL Engineer,"Tools: Informatica Power center 9.6,10.2,10.4
+Databases: Oracle, Teradata
+Other tools and technologies: UNIX, Control- M, Mainframe Zeke, JIRA,
+Servicenow – ITSM, Winscp, Putty",,"Bachelor of Engineering, Lakshmi Narain College of Technology, Bhopal, India",,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 180,W2,,,,Project Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 181,SUBCONTRACTOR,https://docs.google.com/document/d/1bNS6mLJqrpe13gOeoUChnzAhZjggH_tGbQkc5ThWxew/edit?ts=5f737565,,,Cloud Engineer,"• Big Data:  Cloudera, Hortonworks, Flume, Kafka, Sqoop, Spark, Storm, Pig, Hive
+• NOSQL:  HBase, MongoDB, Cassandra, Azure Cosmos DB
+• Data Management:  IBM Infosphere, Microsoft Master Data Services, Informatica MDM  
+• Databases:  SQL Server 2008R2 /2012/2014, Oracle 9i/10g, MySQL, MS Access
+• Data Warehousing:  Netezza, Teradata, Snowflake, Kimball, Inmon, Data Vault
+• Programming Languages:  C#, Java, VB, C++, Python, Scala, Java
+• Cloud:  Microsoft Azure, SQL Azure, AWS, EC2, Redshift, S3, RDS, EMR
+• Modelling:  Kimball, Inman, Data Vault (Hub & Spoke), Hybrid	
+• Languages:  T SQL, R, R-Hadoop, VB, C#, Java Core, Python
+• BI/Data Discovery Tools:  SSAS, QLIKVIEW, TABLEAU, SPOTFIRE, Power BI, OBIEE 
+• ETL/Data Integration Tools:  SSIS, QLIKVIEW, INFORMATICA
+• Reporting Tools:  SSRS, Crystal Reports, D3, Dundas, Fusion Charts
+• Scripting:  Java script, jQuery, VB Script, Python, Shell Scripting
+• Collaboration:  SharePoint 2010, Spotfire server, Content DB, Documentum   
+• Data Tools:  Erwin, Microsoft Visio, Redgate tools
+• Tools & Utilities:   Microsoft visual Studio, VSS, TFS, SVN, ACCUREV, Eclipse, Toad
+• Devops:  GitHub, bitbucket, Maven, LiquiBase, FlyWay , Airflow, Jenkins",,,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 182,SUBCONTRACTOR,,,,ETL Engineer,,,,,,,,,,AdaptHealth - SOW2 - Snowflake Implementation (Phase 2),,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 183,SUBCONTRACTOR,,,,Cloud Architect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 184,W2,,TRUE,06/2021,ETL Engineer,,,• Bachelor of Technology in Computer Science,No,"C
+C++
+Django
+MongoDB
+MySQL
+Numpy
+Pandas
+Python","AI
+IoT
+ML
+Python
+SQL",,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,4,4,N/A,N/A,4,4,4.2,5,5,5,5,N/A,5,5,,5.0,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 185,W2,,TRUE,07/2021,ETL Engineer,,Building a data warehouse using Matillion (expires: ),• B.Tech(Electronics),No,"C
+CSS
+Django
+HTML
+ML
+Python
+SQL",Python,6th July - 18th July 2021,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,4,5,N/A,N/A,4,4,4.4,5,4,5,N/A,N/A,5,5,,4.8,,,"-
+
+-"
+TRUE,Person 186,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 187,W2,,,06/2021,ETL Engineer,,,• Bachelor of Technology in Computer Science,No,"Data Analysis
+ML
+PowerBI
+Python","Data Analysis
+Data Wrangling
+Python",,,AdaptHealth - SOW1 - Snowflake Assessment (Phase 1),,5,3,3,N/A,N/A,4,3,3.6,5,4,4,N/A,N/A,4,4,,4.2,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 188,W2,,,08/2021 - Group 2,Cloud Engineer,,Building a data warehouse using Matillion (expires: ),B.Tech(Computer science),,IoT,IoT,,,,,4,4,4,N/A,N/A,4,4,4.0,4,4,4,N/A,N/A,4,4,,4.0,,,"-
+
+-"
+TRUE,Person 189,W2,https://docs.google.com/document/d/1rLQRsHhB-EE1ufH5X-BLJnYgqA3wlbA-vKtT_RWVxSM/edit?usp=sharing,,,Cloud Architect,"• Cloud :  Azure, AWS, Google
+• Cloud Data warehousing : Snowflake, BigQuery
+• Big Data: Spark, HBase, Hive, Kafka
+• RDBMS / Databases: Oracle, DB2, Postgres, 
+• Languages: Java, Python, Scala
+• Others:  Solr, Elastic Search, Neo4j, Docker, Kubernetes, Linux, Matillion",Databricks Certified Spark Developer (expires: ),• Bachelors (Electronics & Instrumentation) Engineering,,,,,,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 190,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,Lam Research - SOW14 - HDP Installation and Performance Testing,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 191,W2,,,04/2021,ETL Engineer,,,• Dual Degree(Btech+Mtech) in Mechanical,Yes,,"C++
+Python",,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,4,4,3,3,3,4,4,3.6,4,3,4,3,3,3,4,3,3.4,3,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 192,W2,,,,Cloud Architect,,"Microsoft Azure Fundamentals AZ-900 (expires: )
+
+DP-900 Azure Data Fundamentals (expires: )
+
+Fivetran (expires: )",,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 193,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 194,W2,,,08/2021 - Group 1,Cloud Engineer,,,B.Sc(Computer Science),,"MongoDB
+React Framework
+SQL
+UI","Java
+MySQL",,,Mutual of Enumclaw SOW2,,4,3,3,N/A,N/A,4,4,3.6,4,4,4,N/A,N/A,4,4,,4.0,,,"-
+
+-"
+TRUE,Person 195,W2,,,06/2021,ETL Engineer,,,• Bachelor of Technology in Computer Science,No,"ML
+PowerBI
+Python","Data Analysis
+Data Preprocessing
+Data Wrangling
+Python
+SQL",,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,3,3,N/A,N/A,3,3,3.4,5,5,5,N/A,N/A,4,4,,4.6,,SnowPro Core (plans to complete by ),"-
+
+-"
+TRUE,Person 196,W2,https://docs.google.com/document/d/1JtNLzcpierMDbIVSKhkiD0YW7mghsZr7k1aGK47Vtcc/edit?usp=sharing,,,Cloud Engineer,"• Languages: Java (J2EE), Python, .NET (C#, C++)
+• Web Technologies: HTML, CSS, Javascript, AJAX, Web Services, XML, JSON, Message Queues
+• Cloud Technologies: Snowflake, Azure, DBT, Matillion Data Loader
+• Platforms: Windows, Linux, Solaris
+• Databases: Oracle, DB2, SQL
+• IDEs: Eclipse, VSCode, Visual Studio","Microsoft Certified: Azure Fundamentals (expires: )
+
+SnowPro Core Certification (expires: 05/13/22)",• Bachelor of Science (Honours) and Computer Science Specialist (Comprehensive) Co-op,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+TRUE,Person 197,W2,,TRUE,08/2021 - Group 1,Cloud Engineer,,,B.Tech(Computer science),,"C++
+Numpy
+Pandas
+Python
+SQL
+Swift
+Tenserflow","Cloud Platforms
+ETL",,,Precision Drilling Corporation - SOW2 - PCR3 - Cloud Data Platform Assessment,,2,5,5,N/A,N/A,4,4,4.0,3,3,3,N/A,N/A,3,3,,3.0,,,"-
+
+-"
+TRUE,Person 198,W2,,,,Cloud Engineer,,,,,,,,,,Waste Management - SOW2 - PCR2 - Add the NZ to Snowflake Assessment & Staffing Updates,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 199,W2,https://docs.google.com/document/d/1PlkjUNLUH_q0qPM9rkSx6byKu9pXxA20Q8eRcL9P7Uo/edit?usp=sharing,,,Platform Engineer,"• OS: Linux
+• Containers: Kubernetes, Docker
+• Scripting: Shell Scripting
+• RDBMS: MySQL, PostgreSQL, MariaDB
+• Security: LDAP/AD Integration, Ranger
+• Public & Private Clouds: Google Cloud, Azure Cloud
+• Protocols:  TLS/SSL, HTTP, SSH
+• Version Control: GitHub, GitLab
+• Big Data: HDFS, Hive, MR, Spark, YARN, Zeppelin
+• K8S Tools:  Helm, Kompose
+• High Availability: Hive, Ranger, Knox, MySQL, MariaDB & Resource Manager",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 200,SUBCONTRACTOR,,,,Cloud Architect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 201,W2,,,04/2021,Data Analyst,,,BTech(Electronics and communication),Yes,,Python,,,,,4,2,2,3,3,4,4,3.1,3,1,1,1,1,1,1,1,1.3,2,SnowPro Core (plans to complete by ),"-
+
+-"
+,Person 202,W2,https://docs.google.com/document/d/1gnZWWG8pPbb8NGD0bm3O3z0rTLgxH1R_3jxTHkrpMRQ/edit,,,BI Developer,"• Spark
+• Java
+• Python
+• Spark SQL
+• NiFi
+• CentOS
+• Hive
+• Scala
+• SQL
+• Hive QL
+• PowerApps","AZ-900 - Microsoft Certified Azure Fundamentals (expires: N/A)
+
+Databricks Certified Associate Developer for Apache Spark 2.X with Scala (CRT020) (expires: N/A)
+
+
+
+Building a Data Warehouse using Matillion (expires: Unknown)",,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 203,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 204,SUBCONTRACTOR,,,,Cloud Architect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 205,SUBCONTRACTOR,,,,Project Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 206,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 207,SUBCONTRACTOR,,,,Project Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 208,SUBCONTRACTOR,https://drive.google.com/file/d/1nkD1tOphk-kKfOEoO046PDBfJbVuBAUe/view?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 209,SUBCONTRACTOR,,,,ETL Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 210,W2,,,04/2021,Data Engineer,,,Anuj Trikha,Yes,,Java,,,,,4,2,3,3,3,3,3,3.0,5,4,5,5,5,5,5,4,4.8,5,SnowPro Core (plans to complete by ),"-
+
+-"
+,Person 211,SUBCONTRACTOR,https://docs.google.com/document/d/1zW91ZULCiW1dba_5-oR4uAgiQCoElGeFTH4SW4ho4fU/edit?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 212,SUBCONTRACTOR,,,,Cloud Architect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 213,SUBCONTRACTOR,,,,UI/UX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 214,W2,https://docs.google.com/document/d/170rVDRPwtLCZs97Z-yuEmuw6KKBYGD5tyW2ByLoNYJE/edit?usp=sharing,,,Platform Engineer,"• OS: Linux, Windows
+• Containers: Kubernetes, Docker
+• Scripting: Shell Scripting
+• RDBMS: MySQL, PostgreSQL, MariaDB
+• Security: LDAP/AD Integration, Ranger
+• Public & Private Clouds: AWS, Azure Cloud
+• Protocols:  TLS/SSL, HTTP, SSH
+• Version Control: GitHub
+• Big Data: HDFS, Hive, MR, Spark, YARN, Zookeeper, Zeppelin
+• High Availability: Hive, HDFS, Ranger, Knox, MySQL, MariaDB & Resource Manager","AWS Certified Cloud Practitioner (expires: 06/03/22)
+
+AWS Certified Solutions Architect - Associate (expires: 06/03/22)
+
+Docker Certified Associate [DCA] (expires: 01/20/22)",,,,,,,,,,,,,,,,,,,,,,,,,,,"Certified Kubernetes Administrator (plans to complete by 03/31/21)
+
+Terraform (plans to complete by )","-
+
+-"
+,Person 215,SUBCONTRACTOR,,,,ETL Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 216,SUBCONTRACTOR,,,,Cloud Architect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 217,W2,https://docs.google.com/document/d/1kHSo_N-wTZIxbFvfJK4ct6rc7jhzVxq6YG8Z45cCgqk/edit?usp=sharing,,,Data Engineer,"Big Data: HDFS, HIVE, PySpark, SparkSQL, Spark Streaming, Sqoop, Kafka, NiFi, Flume, HBase,Phoenix, Oozie
+Cloud: Azure
+Databases: HBase, Hive, Snowflake
+Languages: Scala, Python/Shell Scripting, PySpark
+RDBMS: Oracle, MySQL, Postgres
+Operating Systems: Linux (CentOS, Ubuntu, Raspbian), Unix, Windows
+Analytics Languages: R (Intermediate), Python (Introductory)
+Reporting tools: TIBCO Spotfire, Tableau	 	
+ML and Data Science: Hypothesis Testing, Statistics & Exploratory Data Analysis, ML Modeling Techniques
+Programming: Core Java, Python, Scala and SQL
+ETL Experience: Kafka Streams, Azure Databricks, Azure ADF, Azure DevOps, Apache Spark, Docker",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 218,SUBCONTRACTOR,https://drive.google.com/file/d/1mU9zRnNYW8QVfhi_6qMmeUDhAPD-6lZH/view?usp=sharing,,,Project Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 219,SUBCONTRACTOR,https://drive.google.com/file/d/1HLkg0lqYFuP306M-mBe6jCsEqNtlkfCf/view?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 220,SUBCONTRACTOR,https://drive.google.com/file/d/1QjDNkVT83rEwKKKlnrWDPNj3K4WxLfpG/view?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 221,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 222,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 223,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 224,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 225,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 226,W2,https://docs.google.com/document/d/1woSU6guomYcRTiUt7ILoIMMTpiUkulOkP0yUWzhgGX8/edit?usp=sharing,,,UI/UX,"• User Experience Design: User Research, Usability Engineering, Prototyping, User Testing, Information Architecture, Interaction Design, UX Strategy 
+• Front End Development: D3, Javascript, Angular, React, HTML, CSS, Nodejs, agile
+• Tools: Photoshop, Adobe XD, Sketch, Figma, Invision
+• DataScience: Data Analytics, Information Visualization",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 227,W2,,,04/2021,Data Engineer,,,MCA,Yes,,SQL,,,,,4,2,2,3,3,2,2,2.6,5,3,3,3,3,3,3,3,3.3,3,SnowPro Core (plans to complete by ),"-
+
+-"
+,Person 228,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 229,W2,,,,Data Engineer,,AZ-900 - Microsoft Certified Azure Fundamentals (expires: Unknown),,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 230,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 231,SUBCONTRACTOR,,,,Data Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 232,W2,https://docs.google.com/document/d/1nEB_4rFudsEdyx9vlfXdJlPlUvytzYr1HFEwS2NKvrk/edit?usp=sharing,,,Data Engineer,"Python Libraries:  Panda, Numpy, Scikit-Learn, Matplotlib, SciPy, Beautiful Soup, NLTK, PyFlask
+ML Algorithms: Linear Regression, Lasso, Ridge, Elastic Net, Logistic Regression, Decision Tree, SVM, KNN, Random Forest, Gradient Boosting, PCA, K Mean, ARIMA
+Deep Learning: CNN, RNN, LSTM, TensorFlow, Keras
+Data Visualization: Tableau, Microstrategy Reports
+Data Integration: IBM datastage ETL, Azure Data Factory
+Cloud Technology: Microsoft Azure (App services, Search Service, Azure ML, Logic Apps, CI/CD pipeline, Data Factory, Azure Databricks), AWS S3, Google Storage
+Orchestration: Apache Airflow, Prefect Python Framework
+Web Technology:  C#, ASP.Net MVC, Javascript,  AngularJS, SOAP Web Services, RESTful Web Services, Crystal Reports, LINQ, JQuery, Kendo UI, Vue.js
+Mobile Technology: Xamarin Forms
+Methodologies: Agile, Agile Scrum, .Net Design Patterns, Object Oriented Programming, SOLID principles
+Familiarity: WSO2 integration platform, Workload automation, BizTalk Server, IVR System, Amazon Web Services, Swift, Hadoop Ecosystem(Pig, Hive, Mapreduce, o",,,,,,,,,,,,,,,,,,,,,,,,,,,,AZ-900: Microsoft Azure Fundamentals (plans to complete by ),"-
+
+-"
+,Person 233,W2,https://docs.google.com/document/d/1YNNPwEANL2BVWLrXEYbQpVVf2NHqd6CqKjuBu4-Gdgw/edit?usp=sharing,,,Architect,"Big Data: CDH and HDP (Spark, Beam, Kafka)
+Cloud: AWS, Azure, EC2, Elastic Search, Databricks
+Databases: MongoDB, InfluxDB, ArangoDB
+Web Technologies: JavaScript, HTML
+Languages: Java, Python, Scala, C++
+Integration/BI/Visualization: 
+RDBMS: SQL Server",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 234,SUBCONTRACTOR,https://drive.google.com/file/d/1bgQL9jsTzGcPlHywdwV8uyOgL4YaMnY5/view?usp=sharing,,,Data Scientist,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 235,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 236,SUBCONTRACTOR,https://drive.google.com/file/d/1p-1ydmaK3wO8VP56uDXzSiW8bKCtjI0o/view?usp=sharing,,,Project Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 237,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 238,SUBCONTRACTOR,https://docs.google.com/document/d/0Bwixww-czRfiOW1mUGtqSmtLSEU/edit#bookmark=id.gjdgxs,,,BI Developer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 239,SUBCONTRACTOR,https://drive.google.com/file/d/1e59ZbNi_EHKktqqVCQDn3Z1oSI0FCzGg/view?usp=sharing,,,Data Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 240,W2,https://docs.google.com/document/d/1SYt0HfQj66LLFXyTjkI5PqdAWjQVVH41HWRDQKkMajo/edit?usp=sharing,,,Data Engineer,,AZ-900 - Microsoft Certified Azure Fundamentals (expires: N/A),,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 241,W2,https://docs.google.com/document/d/1c7GD-FekYZCSeA30QJ2PmJgsLC-C6_RGtnnXzpsGmyE/edit?usp=sharing,,,Data Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SnowPro Core (plans to complete by 05/14/21),"-
+
+-"
+,Person 242,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 243,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 244,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 245,W2,,,08/2021 - Group 2,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 246,W2,https://docs.google.com/document/d/1paZDLbJ7cPrHJru0N8Fo48fEHcWdJu1Y4ltRBXJPtPQ/edit?usp=sharing,,,Architect,"• Big Data: Significant experience designing and implementing data repositories optimized for reporting and ML operations on Hadoop HDFS, Cloudera, Snowflake, Amazon Redshift and NoSQL MPP platforms
+• Data Processing: Apache Spark, Python, Kafka, Confluent and custom streaming APIs in Java
+• Data Integration: ELT/ETL with Python, Java, Scala and Apache Spark
+• Databases: Snowflake, Redshift, Greenplum, Postgres, MySql
+• Orchestration: Airflow, DBT, Gitlab CI/CD, Kubernetes and Docker 
+• Languages: Python, Java, SQL, Javascript, Scala
+• Tools/Utilities: Hive, Impala, Gitlab, CI/CD, custom Web UI, custom REST API development in Java/Python",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 247,SUBCONTRACTOR,https://docs.google.com/document/d/1Tga7Ou2hmbn4pQKw8mN6GGNK7qnDgUCpVJGKK8cFtSI/edit?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 248,SUBCONTRACTOR,,,,Data Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 249,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 250,W2,https://docs.google.com/document/d/14rZrSM4hCzbJvEMScOAHknDpyJ1D69FAzCQW04bJRnc/edit?usp=sharing,,,Platform Engineer,"• OS: Linux
+• Container: Docker
+• Orchestrator: Kubernetes
+• Scripting: Bash, Python3
+• RDBMS: MySQL, MariaDB
+• Security: Kerberos, SSL certificates, LDAP/AD, Ranger and Knox
+• Public & Private Clouds: AWS, OpenStack
+• Protocols:  HTTP, HTTPS, SSH, SSL 
+• Version Control: Git
+• Big Data: CDH, HDP
+• High Availability: NameNode, Yarn Resource Manager, MySQL, Ranger, Hive","Certified Kubernetes Administrator (expires: 02/08/22)
+
+Cloudera Certified Administrator (CCA-131) (expires: 05/15/21)",,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 251,W2,,,,Data Engineer,,"GCP Big Data Engineer certification (expires: 02/17/22)
+
+SnowPro Core (expires: 08/16/22)",,,,,,,,,,,,,,,,,,,,,,,,,,,Databricks Certified Associate Developer for Apache Spark 2.X with Python (CRT020) (plans to complete by 04/15/21),"-
+
+-"
+,Person 252,SUBCONTRACTOR,,,,Project Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 253,W2,,,,Project Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scrum [CSM] (plans to complete by 02/19/21),"-
+
+-"
+,Person 254,SUBCONTRACTOR,,,,Cloud Architect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 255,SUBCONTRACTOR,https://docs.google.com/document/d/1L6toZW1SopbRLRCQJjXH6NaQRx1RPeUsOyVHBE5Nu3U/edit?usp=sharing,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 256,SUBCONTRACTOR,https://drive.google.com/file/d/1slRnQxGTF1DAuJrABbq9qj0nnd2EOIUf/view?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 257,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 258,SUBCONTRACTOR,,,,Data Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 259,SUBCONTRACTOR,https://docs.google.com/document/d/1Zz2VC1scxFpNqdhU-pvyzsuQvzGx_ulC8io5pIz4LOg/edit?usp=sharing,,,Cloud Architect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 260,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 261,SUBCONTRACTOR,https://drive.google.com/file/d/1P1y-9yOZcqjBwnWokiCfBLpKWH30AP76/view?usp=sharing,,,Cloud Architect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 262,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 263,W2,,,,Data Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 264,W2,https://docs.google.com/document/d/1bhZei4K1Z8x03chEUctF4YpAXiROj9No/edit,,,Cloud Engineer,"• Big Data: HDP and CDH (Spark, Kafka, Hive, Impala, HBase, HDFS, Sqoop)
+• Databases: Hive, HBase
+• Scripting: Python
+• ETL: Informatica
+• BI & Visualization: Tableau, Spotfire, PowerBi
+• RDBMS: Oracle, SQL Server, MySQL, Postgres
+• Cloud: AWS-S3, EC2, Lambda, CloudWatch, Glue, Athena, Quick sight, Data Lakes, SFTP, Storage Gateway, Redshift, ADLS Data Lakes, HDInsight, ADF, Azure SQL Datawarehouse","Project Management Certification (expires: )
+
+ITIL V3 Foundation Certified (expires: )
+
+AWS Certified Cloud Practitioner (expires: )
+
+AWS Certified Data Analytics – Specialty (expires: )",• Bachelor degree in Computer Applications,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 265,W2,,,,Data Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SnowPro Core (plans to complete by )
+
+AWS Fundamentals (plans to complete by 03/24/21)","-
+
+-"
+,Person 266,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 267,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 268,SUBCONTRACTOR,https://docs.google.com/document/d/1cqTWe1sHQbrPutsYdCahNWQONTgolLxf99sJfeJ4km8/edit?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 269,W2,,,,Trainee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 270,SUBCONTRACTOR,,,,BI Developer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 271,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 272,SUBCONTRACTOR,https://drive.google.com/file/d/1jfkG8vAmeqvwyXh0VDYH6V0qIEmUwSGf/view?usp=sharing,,,ETL Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 273,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 274,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 275,SUBCONTRACTOR,https://docs.google.com/document/d/0Bwixww-czRfiaG43NVg0ZTQ1TUU/edit?usp=drive_web&ouid=114692044341296274235&rtpof=true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 276,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 277,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 278,W2,,,,Architect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 279,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 280,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 281,SUBCONTRACTOR,,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 282,W2,,,07/2021,Data Engineer,,,B.Tech(Computer science),No,"C++
+HTML
+Java
+SQL","HTML
+RDBMS
+SQL",Last week of July or 1st week of August,,,,5,3,3,N/A,N/A,3,3,3.4,5,3,3,N/A,N/A,3,3,,3.4,,,"-
+
+-"
+,Person 283,SUBCONTRACTOR,https://drive.google.com/file/d/1GZkmAJnKLJTzxd9jj6ySoMUyJQFUnfDq/view?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 284,SUBCONTRACTOR,https://drive.google.com/file/d/1TnxaoRTJAnkmOCWgWXrV9R5Sg_IGXeFk/view?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 285,SUBCONTRACTOR,https://drive.google.com/file/d/0Bwixww-czRfiVkJJSlJhcWExMkk/view?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 286,W2,https://docs.google.com/document/d/1hdyVDU-eaVJqJttc_qiP8MpfKFuqzKGsxZvPw_ftRYA/edit?usp=sharing,,,Data Engineer,,PH526x: Using Python for Research (expires: ),,,,,,,,,,,,,,,,,,,,,,,,,,,Research (plans to complete by ),"-
+
+-"
+,Person 287,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 288,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 289,SUBCONTRACTOR,https://drive.google.com/file/d/1v7_xW03tWOk7e-KJxRd9ZudLdIj3WHf4/view?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 290,SUBCONTRACTOR,https://docs.google.com/document/d/1S56QLxFzb-IV0SXerC14ZW1MtQPVDCE9mFFDyMDmfzY/edit?usp=sharing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 291,W2,,,,Cloud Engineer,"ETL Tools: Informatica Power center 9x/8.x/Power Connect, Informatica Power Exchange, Informatica MDM, Informatica Data Quality ,SSIS 2012,ODI 11g/12c, Hadoop, Python 3
+RDBMS:  Teradata V12/V13/V14, Oracle11g/10g/9i, SQL DB, DB2, SQL Server2012
+Reporting: Business Objects 6.0, Cognos, Qlik view, Tableau, Power BI
+Operating System: Windows XP, 7, NT, 2000, HP UNIX
+Scripting: Unix Shell Scripting, Python
+Schedulers: Informatica/SQL Server/ODI, Autosys, Appworx
+Languages: C, SQL, PL/SQL, Unix
+Version Control: Informatica/ODI/SSIS,SVN,GIT
+Modelling Tools: Erwin 4.1, Microsoft Visio
+Other Tools and Utilities: Teradata Utilities (Mload, FEXP, BTEQ, Fast Load), SQL * plus, Toad, Oracle SQL Developer, Toad for Oracle.",,"Bachelor of Engineering from SRM University, Chennai, India",,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 292,SUBCONTRACTOR,,,,Platform Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 293,SUBCONTRACTOR,https://drive.google.com/file/d/18xNFjZ89g3CO39zNM4_qDpDYRsTLQOUn/view?usp=sharing,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 294,W2,,,04/2021,Data Analyst,,,BE(Computer Science and Engineering),Yes,,"C
+Java
+Python",,,,,4,3,4,3,3,3,3,3.3,4,3,3,3,3,3,3,3,3.1,3,SnowPro Core (plans to complete by ),"-
+
+-"
+,Person 295,W2,,,07/2021,ETL Engineer,,,• Bachelor of Engineering in Computer Science,No,"C++
+Java
+MySQL
+Python","Java
+Python",18th July- 22nd July,,Solar Turbines Incorporated - SOW02 - Oracle Data Warehouse to Snowflake Migration,,5,3,3,N/A,N/A,3,4,3.6,5,4,4,N/A,N/A,4,4,,4.2,,,"-
+
+-"
+,Person 296,W2,https://docs.google.com/document/d/1O9ehbLYCi34lEbPXAxvKtnXenKVvNV7GTmS5vThNM4w/edit,,,Data Engineer,"• Cloud Native Development: DevOps & Agile, Cloud Design Patterns & Microservices, Mobile, IoT, Multi Cloud, Information Security
+• BI & Data Engineering:  ETL tools, DBA & Profiling, Spark stack, Python developer, Reporting & Data Stewardship, Warehouse Design
+• Machine Learning: Model deployment & Productionalization, Linear & Tree-based Models, Data Analysis & Reporting, Model Governance, Scorecarding, Fraud Analysis & Anomaly Detection, Computer Vision, NLP, Deep Learning, Post-Baseline Feature Engineering & Feature Selection, Business Rules & Decision Analysis, PMO Integration with Data Methodologies, SAS to Python Development
+• Digital Transformation:  Business Analyst, Agile Trainer, DevOps Culture Trainer, Cloud Native Developer, Digital Migrations, Analytics Liaison, Algorithms Trainer",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 297,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 298,SUBCONTRACTOR,,,,Software Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 299,SUBCONTRACTOR,https://drive.google.com/file/d/1epGlLYsCPTl_uBItoV_XmEt50NuK0a4c/view?usp=sharing,,,Platform Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 300,SUBCONTRACTOR,https://drive.google.com/file/d/1TG-rdKXVjs3YcX9PITFGTHyR1a0aoJLs/view?usp=sharing,,,Data Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 301,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 302,SUBCONTRACTOR,https://drive.google.com/file/d/1WXrYScvHCy2hDdrGIAIk1N0DzpqKliIj/view?usp=sharing,,,Platform Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 303,SUBCONTRACTOR,https://drive.google.com/file/d/16ddYoIpiDAjjxjLEGjcfVGIe3cAUL7xV/view?usp=sharing,,,Cloud Engineer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 304,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
+,Person 305,SUBCONTRACTOR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-
+
+-"
