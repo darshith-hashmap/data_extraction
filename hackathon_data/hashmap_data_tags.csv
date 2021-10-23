@@ -1,0 +1,130 @@
+date,author,title,tag1,tag2,tag3,tag4,tag5
+20-Oct-21,Hashmap,"Lessons Learned in Building a Modern Data Stack with Erik Jones from Hyperscience
+Hashmap on Tap Ep. 90'�",Cloud Computing,Analytics Engineering,Snowflake,Fivetran,Data
+14-Sep-21,Hashmap,"The Power of Community and Analytics Engineering with Tristan Handy, Founder & CEO of dbt Labs",Data,Analytics,Data Engineering,Data Transformation,Analytics Engineering
+18-Aug-21,Hashmap,"Digging Into DataOps and Its Benefits, Hashmap on Tap Podcast, Ep. 83",Dataops,Data,Data Analytics,Data Governance,DevOps
+4-Aug-21,Mohini Kalamkar,Getting to Know Snowflake Snowsight Snowflake's Interactive SQL Editor,Snowflake,Snowsight,Sql,Sql Editor,Analytics
+21-Jul-21,Venkat Sekar,Parsing Complex Excel Files Using Snowflake's New Java UDF Feature,Snowflake,Cloud Computing,Data,Snowflake Java Udf,Snowflake File Parsing
+12-Jul-21,Jalindar Karande,Sending Email Notifications from Snowflake Using External Functions,Data Quality,Data,Snowflake,Data Management,Cloud Computing
+7-Jul-21,Hashmap,Developing SQL-Based Streaming Data Apps with Arjun Narayan of Materialize,Data,Cloud Computing,Materialize,Sql,Streaming
+23-Jun-21,Hashmap,Monte Carlo: Using Data Observability to Improve Data Reliability,Data Observability,Data Reliability,Data,Data Science,Data Analytics
+17-Jun-21,Jalindar Karande,Handling Deadlocks in Snowflake,Snowflake,Cloud Computing,Data Warehouse,Data,Elt
+15-Jun-21,Hashmap,Epiq Global: Simplifying eDiscovery with Snowflake,Snowflake,Data,Cloud Computing,Cloud,Ediscovery
+26-May-21,Shubham Nikam and Laurent Weichberger,How to Perform a Cloudera CDH v6 Migration to CDP Public Cloud (AWS),Cloudera,Hadoop,AWS,Cloud Migration,Open Source
+24-May-21,Shekhar Parnerkar,A Quick Start Guide to Using the Snowflake Connector for Kafka,Snowflake,Kafka,Open Source,Data,Cloud Computing
+10-May-21,Chinmayee Lakkad,How We Use Hashmap Data Cataloger (hdc) in Cloud Data Migrations: Part 2,Cloud Computing,Data,Snowflake,Open Source,Migration
+29-Mar-21,Archit Pandita,How to Build and Deploy Docker Images on GKE (Google Kubernetes Engine)' Part 2,Gcp,Kubernetes,Docker,DevOps,Deployment
+23-Feb-21,Scottie Bryan,Speed Equals Success in a Data Warehouse Migration,null,null,null,null,null
+4-Feb-21,Scottie Bryan,"What I Learned About KPIs, Data, and a Cloud Data Warehouse ",null,null,null,null,null
+28-Jan-21,Sam Kohlleffel,Cloudy SQL Querying Snowflake Inside a Jupyter Notebook,Snowflake,Cloud Computing,Data,Jupyter Notebook,Machine Learning
+26-Jan-21,Prabha Rashmi,Know Your Data Pipelines with Great Expectations,Data Quality,Documentation,Data Profiling,Data Testing,Data
+18-Jan-21,Venkat Sekar,Integrating dbt with Azure Data Factory (ADF),Dbt,Azure Data Factory,Azure,Adf,Data
+12-Jan-21,Jhimli Bora & John Aven,Understanding State Management in Hashmap Data Migrator,Snowflake,Data,Data Migration,State Management,Cloud Computing
+11-Jan-21,Jhimli Bora & John Aven,"Accelerating Netezza to Snowflake Migrations
+Using Hashmap Data Migrator",Netezza,Snowflake,Data Migration,Cloud Computing,Data
+7-Jan-21,Venkat Sekar,Deploying and Running dbt on Azure Container Instances,Dbt,Azure,Azure Container Instances,Snowflake,Data
+16-Dec-20,The Hashmap Team,Hashmap Engineering & Technology: Our Top 10 Most Popular Articles in 2020,Cloud Computing,Snowflake,Data,AWS,Cloud
+3-Dec-20,Sam Kohlleffel,Behind the Scenes of Snowflake Healthcheck,Snowflake,Snowflake Healthcheck,React,Data Visualization,Cloud Computing
+19-Nov-20,John Aven,"Building ML Pipelines
+Dockerizing Your Code",Docker,Mlops,Data Science,Containerization,Machine Learning
+18-Nov-20,Shekhar Parnerkar and Gaurav Kholiya,"Staging, Ingesting, and Transforming Excel Files",Excel,Data Science,Data Transformation,Data Quality,Data Management
+20-Oct-20,Shekhar Parnerkar and Pooja Sankpal,Four Steps for Migrating from Hive 2.x to 3.x,Cloudera,Cdp,Cloudera Data Platform,Hive Migration,Cloud Computing
+8-Oct-20,Sam Kohlleffel,Automating a React App Hosted on AWS S3 (Part 2): Snowflake Healthcheck,AWS,Snowflake,React,Snowflake Healthcheck,Cloud Computing
+25-Sep-20,Shekhar Parnerkar,Make The Most Of Your Azure Data Factory Pipelines,Adf,Azure,DevOps,Etl,Data
+26-Aug-20,Kelly Kohlleffel,How To Get Rid of Data Integration Option Fatigue in Just 10 Minutes,Data,Cloud Computing,Data Integration,Workshop,Outcomes
+14-Aug-20,Senthil Anandarangan & Ganesh Hegde,Using Starburst Presto to Federate SQL Queries Across Multiple Data Sources,Starburst,Presto,Looker,Data Virtualization,Data
+9-Jul-20,Venkat Sekar,How to Integrate SQL Databases with Snowflake Using AWS Glue,AWS,Snowflake,Data,Aws Glue,Cloud
+12-Jun-20,Kieran Healey & Senthil Anandarangan,ADF Snowflake Connector: A Bit Underbaked,Snowflake,Azure Data Factory,Data,Data Engineering,Cloud Computing
+30-Apr-20,Prakash Bharathi & Kelly Kohlleffel,"Talking Data, the Cloud, Matillion, and Snowflake",Snowflake,Matillion,Data,Cloud Computing,Elt
+22-Apr-20,Randy Pitcher,Snowflake Cheatsheet | 3 Approaches to Creating Users,Snowflake,Guide,Data,Create User,Cloud Computing
+15-Apr-20,Yu Fai Wong,Moving On-Prem Oracle Databases to Snowflake,Snowflake,Migration,Oracle,Data,Cloud
+20-Feb-20,Kieran Healey,#Tech in 5 Real-Time Architecture,Realtime,IoT,Data,Influx,Cloud Computing
+30-Jan-20,Kieran Healey,Snowflake Azure Storage Integration,Snowflake,Storage Integration,Azure,Security,Cloud Computing
+29-Jan-20,John Aven,Snowflake Anti-Patterns: The Probable Data Scientist,Snowflake,Snowflake Computing,Cloud Computing,Data,Data Science
+10-Jan-20,Kieran Healey,#Tech in 5 Snowflake & Dask,Dask,Snowflake,Data Engineering,Python,Open Source
+7-Jan-20,John Aven,Evolving Data Science,Data Science,Machine Learning,AI,Data Engineering,Analytics
+29-Sep-21,Kedar Waval,Snowflake External Tables Quick Setup Guide,Snowflake,AWS,Aws Sqs,Cloud Computing,Data
+1-Sep-21,Hashmap,"Creating a Modern SQL Notebook with Oliver Hughes, Co-Founder & CEO of Count",Sql,Cloud Computing,Data,Sql Notebook,Count
+9-Aug-21,Venkat Sekar,Cataloging Metadata in Snowflake with SnowCAT,Snowflake,Snowcat,Data Catalog,Cloud Computing,Data Discovery
+28-Jul-21,Chinmayee Lakkad,Why You Should Use Snowflake's External Tables,Snowflake,Data,Cloud Computing,Data Lake,Snowflake Data Cloud
+19-Jul-21,Hashmap,Behind the Scenes of Our 2021 Cloud Data Platform Benchmarking & Analysis,Data Migration,Cloud Computing,Data Warehouse,Cloud Data Warehouse,Snowflake
+9-Jul-21,Venkat Sekar,Using AWS SAM to Develop Snowflake External Functions,Snowflake,AWS Lambda,AWS,Aws Api Gateway,Aws Sam
+24-Jun-21,Hashmap,5 Compelling Snowflake Customer Metrics That You Need to Know,Snowflake,Cloud Computing,Cloud,Data,Cloud Migration
+22-Jun-21,Venkat Sekar,Performing Data Quality Checks in Snowflake Part 2,Data Quality,Data Monitoring,Snowflake,Snowdq,Data
+16-Jun-21,Hashmap,Everything You Missed at Snowflake Summit 2021,Snowflake,Analytics,Data,Data Engineering,Cloud Computing
+9-Jun-21,George Luft,Bring Your Code to the Snowflake Data Cloud with Snowpark,Snowflake Data Cloud,Snowpark,Snowflake,Cloud,Cloud Computing
+26-May-21,Venkat Sekar,How to Perform a UNION Operation in Snowflake on Tables with Mismatched Columns,Snowflake,Data,Data Modeling,Cloud Computing,Cloud
+19-May-21,Hashmap,Change Data Capture & Hashmap Data Cataloger (hdc),Hdc,Change Data Capture,Cloud Computing,Cloud Migration,Data Migration
+10-May-21,Chinmayee Lakkad,How We Use Hashmap Data Cataloger (hdc) in Cloud Data Migrations: Part 1,Cloud Computing,Data Migration,Data Engineering,Python,Data
+29-Mar-21,Archit Pandita,How to Build and Deploy Docker Images on GKE (Google Kubernetes Engine)' Part 1,Kubernetes,Gke,Docker,Gcp,DevOps
+5-Feb-21,Scottie Bryan,How Cost Management Can Tank Your Cloud Migration,null,null,null,null,null
+2-Feb-21,Archit Pandita,Exploring Builder and Factory Design Patterns,Python,Design Patterns,Yaml,Development,Data
+27-Jan-21,Laurent Weichberger,HDP 3 (AWS) Cluster Migration to CDP Public Cloud on MS Azure,Cloudera,Cdp,Migration,Data,Cloud Computing
+25-Jan-21,Archit Pandita,Getting Started with Snowflake Using Python,Python,Snowflake,AWS,Automation,Cloud Computing
+15-Jan-21,Sam Kohlleffel,Cloudy Warehouses Simplifying Snowflake & pandas DataFrames Interaction,Snowflake,Pandas,Dataframes,Snowflake Connector,Cloud Computing
+12-Jan-21,Sergey Gershkovich & Kelly Kohlleffel,Transitioning from SAP BW to Snowflake,Sap,Snowflake,Migration,Cloud Computing,Data
+8-Jan-21,Preetpal Singh,Migrating from Oracle Exadata by Modernizing with Snowflake,Oracle,Snowflake,Cloud Computing,Data,Snowflake Data Cloud
+4-Jan-21,The Hashmap Team,"A New Journey Starts for Hashmap, an NTT DATA Company",Data,Cloud Computing,Machine Learning,Acquisition,Growth
+11-Dec-20,The Hashmap Team,NTT DATA Services Announces Intent to Acquire Hashmap,Data,Cloud Computing,Acquisition,Growth,Machine Learning
+3-Dec-20,Mohini Kalamkar,How to Put the Azure Data Factory (ADF) Snowflake Connector to Use,Azure Data Factory,Snowflake,Matillion,Azure,Cloud Computing
+19-Nov-20,John Aven,"Building ML Pipelines
+What is a DAG?",Airflow,Prefect,Machine Learning,Data Science,Directed Acyclic Graph
+5-Nov-20,John Aven,Why I Love MLflow,Mlops,Mlflow,Data Science,DevOps,Machine Learning
+16-Oct-20,Mohini Kalamkar,5 Steps to Converting Python Jobs to PySpark,Pyspark,Pandas,Python,Koalas,Spark
+6-Oct-20,Sam Kohlleffel,Automating a React App Hosted on AWS S3: Snowflake Healthcheck,Snowflake,Data,Cloud Computing,AWS,Snowflake Healthcheck
+21-Sep-20,Sam Kohlleffel,How We Automated Snowflake Data Profiler,Snowflake,Snowflake Data Profiler,Automation,Data,Cloud Computing
+24-Aug-20,Randy Pitcher,Your Mega Guide to the 3 Stages of Netezza to Snowflake Migrations,Data,Cloud Computing,Snowflake,Netezza To Snowflake,Cloud Data Warehousing
+13-Aug-20,Yu Fai Wong,dbt Orchestration in Azure DevOps Pipelines,Azure Devops,Cloud Computing,Azure Pipelines,Dbt,Data
+30-Jun-20,Venkat Sekar,Unit Testing on dbt Models Using a Static Test Dataset in Snowflake,Dbt,Snowflake,Data,Cloud,Open Source
+12-Jun-20,Luke Kline,7 Core Tenets to Know Before You Develop Data & Analytics Products,Data Warehouse,Data,Technology,Simplicity,Cloud Computing
+28-Apr-20,Venkat Sekar,Housekeeping in Snowflake with SQL and DBT,Snowflake,Dbt,Cloud Computing,Data,Data Warehouse
+21-Apr-20,Venkat Sekar,Data Materialization in Snowflake Using Confluent Kafka Connect: Part 2,Snowflake,Cloud Computing,Kafka,Open Source,Data
+20-Mar-20,Venkat Sekar,3 Steps to Find Access Patterns in Snowflake Using Hierarchical Queries,Cloud Computing,Snowflake,Snowflake Computing,Data,Cloud
+13-Feb-20,Venkat Sekar,How to Query Snowflake Using Azure Functions with Node.js,Data,Cloud Computing,Snowflake,Functions As A Service,Nodejs
+30-Jan-20,John Aven,Snowflake Solution Anti-Patterns: Spark is My Hammer,Cloud Computing,Data,Snowflake,Spark,Antipattern
+28-Jan-20,Kelly Kohlleffel,3 Best Practices for On-Prem to Snowflake,Cloud Computing,Cloud,Data,Snowflake,Modernizing
+7-Jan-20,John Aven,Deploying Machine Learning Solutions,Data Science,Machine Learning,DevOps,Data Engineering,Mlops
+6-Jan-20,Chinmayee Lakkad,Schema Unification with Snowflake,Snowflake,Dbt,Data Engineering,Cloud Computing,Data
+27-Sep-21,Hashmap,"Perspectives on Data Value and Data Catalogs with Castor Co-Founder & CEO, Tristan Mayer",Data Catalogs,Data,Cloud Computing,Data Discovery,Castor
+25-Aug-21,Hashmap,Delivering an AI-Driven Approach to Analytics with Cindi Howson of ThoughtSpot,Business Intelligence,Analytics,Cloud Computing,Data,AI
+5-Aug-21,Archit Pandita,Optimizing ADF Pipelines for Data Ingestion,Azure,Azure Data Factory,Data,Cloud Computing,Data Pipeline
+23-Jul-21,Hashmap,Improving Snowflake Data Quality with SnowDQ,Snowflake,Data Quality,Cloud Computing,Snowdq,Data
+16-Jul-21,Hashmap,SqlDBM: No Code Data Modeling for Cloud Data Warehouses with Anna Abramova,Data,Cloud Computing,Data Modeling,No Code,Snowflake
+7-Jul-21,Hashmap,Answers to 5 Common Snowflake Questions,Snowflake,Analytics,Data,Data Engineering,Cloud Computing
+23-Jun-21,Hashmap,5 Compelling Snowflake Customer Metrics That You Need to Know,Snowflake,Data,Cloud Computing,Need To Know,Snowflake Data Cloud
+21-Jun-21,Venkat Sekar,Performing Data Quality Checks in Snowflake Part 1,Data Quality,Data Monitoring,Snowflake,Data,Cloud Computing
+16-Jun-21,Hashmap,Hashmap Wins Snowflake's Ski Lift Content Competition for the 2nd Straight Year,Snowflake,Cloud Computing,Cloud,Data,Data Warehouse
+1-Jun-21,Hashmap,"The Origins and Future of Fivetran with George Fraser
+Hashmap on Tap, Ep. 74",Fivetran,Dbt,Data Integration,Data,Cloud Computing
+24-May-21,Hashmap,We're Excited for Snowflake Summit 2021 Here's Why,Snowflake,Snowpark,Cloud Computing,Cloud Migration,Data
+14-May-21,Hashmap,Digging into Data Governance and Data Modeling,Data Governance,Data Modeling,Data,Cloud,Data Strategy
+3-May-21,Shekhar Parnerkar,A Quick Start Guide to Change Data Capture with Debezium,Debezium,Change Data Capture,Kafka,Data,Open Source
+17-Mar-21,David Hrncir and Chinmayee Lakkad,Extracting Facebook Insights via Fivetran and Snowflake,Snowflake,Fivetran,Looker,Cloud,Data
+4-Feb-21,Jhimli Bora,Understanding Great Expectations and How to Use It,Data,Data Profiling,Data Testing,Open Source,Data Validation
+29-Jan-21,Venkat Sekar,Cataloging Metadata in Snowflake,Data Catalog,Snowflake,Data Discovery,Cloud Computing,Data
+26-Jan-21,Jhimli Bora,Data Science for Executives,Machine Learning,Supervised Learning,Unsupervised Learning,Artificial Intelligence,Data Science
+19-Jan-21,Scottie Bryan,Strategy and the Cloud Access to Data,Data,Strategy,Data Strategy,Cloud Migration,Data Migration
+13-Jan-21,Scottie Bryan,"Strategy and the Cloud Delegate, Delegate, Delegate",Data Strategy,Cloud Strategy,Strategy,Business Strategy,Delegation
+12-Jan-21,Scottie Bryan,Strategy and the Cloud Think Strategic,Cloud Computing,Data Strategy,Cloud Strategy,Strategy,Business Strategy
+8-Jan-21,John Aven & Jhimli Bora,Introducing Hashmap Data Migrator,Data Engineering,Data Migration,Python,Data,Cloud Computing
+21-Dec-20,Archit Pandita,What's New with Airflow 2.0,Airflow,Python,Apache Airflow,Kubernetes,Open Source
+4-Dec-20,John Aven,"Exploring DevOps Options
+Working with GitLab",Gitlab Ci,DevOps,Gitlab,Version Control,Git
+23-Nov-20,Sam Kohlleffel,Creating Reusable CI/CD Pipelines with GitLab,Ci Cd Pipeline,Docker,Gitlab,Python,DevOps
+18-Nov-20,Venkat Sekar,Verifying Deployment Using Terraform State Files,Terraform,Iac,Open Source,DevOps,Hashicorp
+28-Oct-20,John Aven,Building ML Pipelines,Mlops,Argo,Data Science,Kubernetes,Machine Learning
+8-Oct-20,Sam Kohlleffel,Automating a React App Hosted on AWS S3 (Part 3): Snowflake Healthcheck,React,Snowflake,AWS,Cloud Computing,Data
+5-Oct-20,Randy Pitcher,Supercharge Your Snowflake Billing Statement with Custom User Metrics,Snowflake,Data Science,Analytics,Cloud Computing,Automation
+10-Sep-20,Laurent Weichberger and Shubham Nikam,Hortonworks Data Platform 2.6.5 In-Place Upgrade to Cloudera Data Platform 7,Hdp,Cloudera,Cdp,Ambari,Hortonworks
+18-Aug-20,Sam Kohlleffel,How to Get a Snowflake Data Quality Assessment in 60 Seconds,Snowflake,Data,Cloud Computing,Data Quality,Cloud Data Warehouse
+4-Aug-20,Senthil Anandarangan & Ganesh Hegde,How to Connect S3 Data to Looker using Starburst Presto,Starburst,Presto,Sql,Looker,Data
+23-Jun-20,Venkat Sekar,Deploying and Running dbt on AWS Fargate,AWS,Aws Fargate,Dbt,Snowflake,Data
+12-May-20,Randy Pitcher,Automate Code Deployment with AWS EC2 Build Agents for your Azure DevOps Pipelines,DevOps,Azure,AWS,Aws Ec2,Cloud Computing
+23-Apr-20,Luke Kline,"My Top 2 Time-Saving, Data Quality Solutions for Hubspot",Hubspot,Data Quality,Sales,Marketing,Cloud Computing
+20-Apr-20,Venkat Sekar,Data Sync to Snowflake Using Confluent Kafka Connect: Part 1,Cloud Computing,Snowflake,Data,Open Source,Kafka
+20-Feb-20,Venkat Sekar,"Quickly Visualize Snowflake's Roles, Grants, and Privileges",Cloud Computing,Snowflake,D3js,Data,Snowflake Computing
+31-Jan-20,John Aven,Data Science Repo Scaffolding for the Next Generation,Machine Learning,Data,Data Science,AI,Evolving Data Science
+29-Jan-20,Randy Pitcher,The Hitchhiker's Guide to Timestamps in Snowflake: Part 1,Snowflake,Cloud Computing,Data,Datatypes In Snowflake,Timestamps In Snowflake
+27-Jan-20,John Aven,Streamsets & Snowflake:,Snowflake,Streamsets,Cloud Computing,Data,Open Source
+7-Jan-20,John Aven,Versioning Data Science Solutions,Data Science,Machine Learning,AI,Versioning,Version Control System
+"2019, 2018, 2017 Stories",Hashmap,Access Previous Years,null,null,null,null,null
